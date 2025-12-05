@@ -69,35 +69,34 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 5. 2025-CDE CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs[[pdf]](https://ieeexplore.ieee.org/document/11112841)[[code]](https://github.com/pkufzc/CuckooGraph)
 
 **Graph databases**
-2013 ATC TAO: Facebook's Distributed Data Store for the Social Graph[[pdf]](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
-2015-TOS ImmortalGraph: A System for Storage and Analysis of Temporal Graphs[[pdf]](https://dl.acm.org/doi/10.1145/2700302)
-2016-SIGMOD Reducing the Storage Overhead of Main-Memory OLTP Databases with Hybrid Indexes[[pdf]](https://dl.acm.org/doi/10.1145/2882903.2915222)
-2016-VLDB Weaver: A High-Performance, Transactional Graph Database Based on Refinable Timestamps[[pdf]](https://www.vldb.org/pvldb/vol9/p852-dubey.pdf)
-2019-SIGMOD Nanosecond Indexing of Graph Data With Hash Maps and VLists[[pdf]](https://dl.acm.org/doi/10.1145/3299869.3314044)
-2019-SoCC Grasper: A High Performance Distributed System for OLAP on Property Graphs
-2019-SIGMOD X-Engine: An Optimized Storage Engine for Large-Scale E-commerce Transaction Processing
-2020-SIGMOD A1: Distributed In-Memory Graph Database
-2021-SIGMOD PG-Keys: Keys for Property Graphs
-2021-VLDB A model and query language for temporal graph databases
-2021-FAST Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications the RocksDB Experience
-2022-VLDB G-Tran A High-Performance Distributed Graph Database with a Decentralized Architecture
-2022-VLDB ByteGraph: A High-Pefromance Distributed Graph Database on ByteDance
-2022-VLDB Banyan a scoped dataflow engine for Graph Query Service
-2022-VLDB Banyan a scoped dataflow engine for Graph Query Service
-2022-CIDR GRainDB: A Relational-core Graph-Relational DBMS
-2022-SC GHive: Accelerating Analytical Query Processing in Apache Hive via CPU-GPU Heterogeneous Computing
-2022-ICDE Clock-G: A temporal graph management system with space-efficient storage technique
-2023 Vineyard: Optimizing Data Sharing in Data-Intensive Analytics
-2023-TKED T-SQL A Lightweight Implementation to Enable Built-in Temporal Support in MVCC-Based RDBMSs
-2024-SIGMOD BG3: A Cost Effective and I/O Efficient Graph Database in ByteDance
-2024-VLDB Galaxybase: A High Performance Native Distributed Graph Database for HTAP
-2024-VLDB Enhancing Data Lakes with GrapAr: Efficient Graph Data Management with a Specialized Storage Scheme
-2024-VLDB Mammoths Are Slow: The Overlooked Transactions of Graph Data
-2024-VLDB AeonG: An Efficient Built-in Temporal Support in Graph Databases
-2024-BigData Building a High-Performance Graph Storage on Top of Tree-Structured Key-Value Stores
-2024-VLDB KGFabric: A Scalable Knowledge Graph Warehouse for Enterprise Data Interconnection
-2024 A Graph-Native Query Optimization Framework
-
+1. 2013 ATC TAO: Facebook's Distributed Data Store for the Social Graph[[pdf]](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
+2. 2015-TOS ImmortalGraph: A System for Storage and Analysis of Temporal Graphs[[pdf]](https://dl.acm.org/doi/10.1145/2700302)
+3. 2016-SIGMOD Reducing the Storage Overhead of Main-Memory OLTP Databases with Hybrid Indexes[[pdf]](https://dl.acm.org/doi/10.1145/2882903.2915222)
+4. 2016-VLDB Weaver: A High-Performance, Transactional Graph Database Based on Refinable Timestamps[[pdf]](https://www.vldb.org/pvldb/vol9/p852-dubey.pdf)
+5. 2019-SIGMOD Nanosecond Indexing of Graph Data With Hash Maps and VLists[[pdf]](https://dl.acm.org/doi/10.1145/3299869.3314044)
+6. 2019-SoCC Grasper: A High Performance Distributed System for OLAP on Property Graphs
+7. 2019-SIGMOD X-Engine: An Optimized Storage Engine for Large-Scale E-commerce Transaction Processing
+8. 2020-SIGMOD A1: Distributed In-Memory Graph Database
+9. 2021-SIGMOD PG-Keys: Keys for Property Graphs
+10. 2021-VLDB A model and query language for temporal graph databases
+11. 2021-FAST Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications the RocksDB Experience
+12. 2022-VLDB G-Tran A High-Performance Distributed Graph Database with a Decentralized Architecture
+13. 2022-VLDB ByteGraph: A High-Pefromance Distributed Graph Database on ByteDance
+14. 2022-VLDB Banyan a scoped dataflow engine for Graph Query Service
+15. 2022-VLDB Banyan a scoped dataflow engine for Graph Query Service
+16. 2022-CIDR GRainDB: A Relational-core Graph-Relational DBMS
+17. 2022-SC GHive: Accelerating Analytical Query Processing in Apache Hive via CPU-GPU Heterogeneous Computing
+18. 2022-ICDE Clock-G: A temporal graph management system with space-efficient storage technique
+19. 2023 Vineyard: Optimizing Data Sharing in Data-Intensive Analytics
+20. 2023-TKED T-SQL A Lightweight Implementation to Enable Built-in Temporal Support in MVCC-Based RDBMSs
+21. 2024-SIGMOD BG3: A Cost Effective and I/O Efficient Graph Database in ByteDance
+22. 2024-VLDB Galaxybase: A High Performance Native Distributed Graph Database for HTAP
+23. 2024-VLDB Enhancing Data Lakes with GrapAr: Efficient Graph Data Management with a Specialized Storage Scheme
+24. 2024-VLDB Mammoths Are Slow: The Overlooked Transactions of Graph Data
+25. 2024-VLDB AeonG: An Efficient Built-in Temporal Support in Graph Databases
+26. 2024-BigData Building a High-Performance Graph Storage on Top of Tree-Structured Key-Value Stores
+27. 2024-VLDB KGFabric: A Scalable Knowledge Graph Warehouse for Enterprise Data Interconnection
+28. 2024 A Graph-Native Query Optimization Framework
 
 
 ## dynamic graph analytics work
