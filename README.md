@@ -3,7 +3,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 
 ## graph processing related survey work
 1. Graph computing systems and partitioning techniques: A survey[[pdf](https://scispace.com/pdf/graph-computing-systems-and-partitioning-techniques-a-survey-3p9cvw18.pdf)]
-3. A survey of distributed graph algorithms on massive graphs[[pdf]https://arxiv.org/pdf/2404.06037]
+3. A survey of distributed graph algorithms on massive graphs[[pdf](https://arxiv.org/pdf/2404.06037)]
 4. The ubiquity of large graphs and surprising challenges of graph processing: extended survey
 5. A survey on concurrent processing of graph analytical queries: Systems and algorithms
 6. Graph processing on gpus: A survey
