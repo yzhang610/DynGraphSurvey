@@ -21,6 +21,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 18. A comprehensive survey of dynamic graph neural networks: Models, frameworks, benchmarks, experiments and challenges[[pdf]](https://arxiv.org/abs/2405.00476)
 
 ## dynamic graph storage work
+CSR-liked
 1. 2015-ICDE LLAMA: Efficient Graph Analytics Using Large Multiversioned Arrays[[pdf]](https://ieeexplore.ieee.org/document/7113298)
 2. 2017-VLDB Accelerating Dynamic Graph Analytics on GPUs
 3. 2019-GRADES Fast Concurrent Reads and Updates with PMAs
@@ -38,7 +39,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 15. 2024-SC DGAP: Efficient Dynamic Graph Analysis on Persistent Memory
 16. 2025-TS Scalable and High-Performance Large-Scale Dynamic Graph Storage and Processing System
 17. 2025-SIGMOD LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-Level CSR
-
+AJ-liked
 18. 2012-STINGER: High Performance Data Structure for Streaming Graphs
 19. 2016 cuSTINGER: Supporting Dynamic Graph Algorithms for GPUs
 20. 2018-HPEC Hornet: An Efficient Data Structure for Dynamic Sparse Graphs and Matrices on GPUs
@@ -58,7 +59,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 34. 2024-VLDB Sprue: A Fast yet Space-saving Structure for Dynamic Graph Storage
 35. 2025-VLDB BACH: Bridging Adjacency List and CSR Format using LSM-Trees for HGTAP Workloads
 36. 2025-VLDB RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries
-
+Hash-liked
 37. 2019-PDPS GraphThinker: A High Performance Data Structure for Dynamic Graph Processing
 38. 2021-ICDE DuCuckoo: Dynamic Hash Tables on GPUs
 39. 2022-SEA A Fast Data Structure for Dynamic Graphs Based on Hash-Indexed Adjacency Blocks
