@@ -146,7 +146,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 2. 2025-ICDETeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms[[pdf]](https://ieeexplore.ieee.org/document/11113163)
 3. 2025-TACO Cheetah: Accelerating Dynamic Graph Mining with Grouping Updates[[pdf]](https://dl.acm.org/doi/full/10.1145/3736173)
 
-## dynamic graph learning
+## dynamic graph learning work
 **dynamic GNN design**
 1. 2020-AAAl EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs[[pdf]](https://arxiv.org/abs/1902.10191)
 2. 2021-SIGMOD APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding[[pdf]](https://arxiv.org/abs/2011.11545)
