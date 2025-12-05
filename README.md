@@ -121,6 +121,19 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 19. 2025 Analysis of Stable Vertex Values: Fast Query Evaluation Over An Evolving Graph[[pdf]](https://arxiv.org/abs/2502.10579)
 20. 2025-VLDB Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing[[pdf]](https://www.vldb.org/pvldb/vol18/p3854-wang.pdf)[[code]](https://github.com/Yongze-zzz/C-GpuStreamGraph)
 
+**dynamic graph processing without incremental computation**
+1. 2014-EuroSys Towards Large-Scale Graph Stream Processing Platform2014-EuroSys Chronos: A Graph Engine for Temporal Graph Analysis[[pdf]](https://pacman.cs.tsinghua.edu.cn/papers_cwg/eurosys2014.pdf)
+2. 2016-Toc Synergistic Analysis of Evolving Graphs[[pdf]](https://dl.acm.org/doi/10.1145/2992784)
+3. 2016-SIGMOD Tornado: A System For Real-Time lterative Analysis Over Evolving Data2016-GRADEs Time-Evolving Graph Processing at Scale[[pdf]](https://dl.acm.org/doi/10.1145/2882903.2882950)
+4. 2016-ATC Version Traveler: Fast and Memory-Efficient Version Switching in Graph Processing systems[[pdf]](https://dl.acm.org/doi/10.5555/3026959.3027007)
+5. 2022-ICDE TeGraph: A Novel General-Purpose Temporal Graph Computing Engine[[pdf]](https://ieeexplore.ieee.org/document/9835422)
+6. 2023-EuroSys TEA: A General-Purpose Temporal Graph Random Walk Engine[[pdf]](https://dl.acm.org/doi/10.1145/3552326.3567491)
+7. 2023-ICDE AFaVS: Accurate Yet Fast Version Switching for Graph Processing Systems[[pdf]](https://ieeexplore.ieee.org/document/10184537)
+8. 2023-TKDE EGraph: Efficient Concurrent GPU-Based Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.1109/TKDE.2022.3171588)
+9. 2023-SIGMOD GeaFlow: A Graph Extended and Accelerated Dataflow System[[pdf]](https://dl.acm.org/doi/10.1145/3589771)
+10. 2024-TPDS TeGraph+: Scalable Temporal Graph Processing Enabling Flexible Edge Modifications[[pdf]](https://ieeexplore.ieee.org/document/10508970/)
+11. 2025-TACO CGCGraph: Efficient CPU-GPU Co-execution for Concurrent Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.1145/3744904)
+
 ## dynamic graph pattern work
 
 ## dynamic graph learning
