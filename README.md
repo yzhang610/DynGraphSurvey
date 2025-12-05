@@ -141,7 +141,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 1. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs
 
 ## dynamic graph learning
-**dynamic GNN design
+**dynamic GNN design**
 1. 2020-AAAl EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs[[pdf]](https://arxiv.org/abs/1902.10191)
 2. 2021-SIGMOD APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding[[pdf]](https://arxiv.org/abs/2011.11545)
 3. 2022-TKDE Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting[[pdf]](https://ieeexplore.ieee.org/document/9346058)
@@ -170,7 +170,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 11. 2024-ICDE PlatoD2GL: An Efficient Dynamic Deep Graph Learning System for Graph Neural Networks Training on Billion-Scale Graphs[[pdf]](https://ieeexplore.ieee.org/document/10597951)
 12. 2024-HPCA Enabling Large Dynamic Neural Network Training with Learning-based Memory Management[[pdf]](https://ieeexplore.ieee.org/document/10476398)
 
-**dynamic GNN explaination**
+**dynamic GNN explaination** (The more detailed relatedwork can be seen in [awesome-graph-explainability-papers](https://github.com/flyingdoog/awesome-graph-explainability-papers) )
 1. 2021-ICDM GCN-SE Attention as Explainability for Node Classification in Dynamic Graphs[[pdf]](https://ieeexplore.ieee.org/iel7/9678506/9678989/09679020.pdf)
 2. 2022-IJCAI Explaining Dynamic Graph Neural Networks via Relevance Back-propagation[[pdf]](https://arxiv.org/abs/2207.11175)
 3. 2023-CLR Explaining Temporal Graph Models Through an Explorer-Navigator Framework[[pdf]](https://openreview.net/forum?id=BR_ZhvcYbGJ)
@@ -179,7 +179,6 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 6. 2024-ICLR Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks[[pdf]](https://proceedings.iclr.cc/paper_files/paper/2024/file/6e2a1a8a037f9a06004fe651054e8938-Paper-Conference.pdf)
 7. 2025-KDD DyExplainer: Explainable Dynamic Graph Neural Networks[[pdf]](https://dl.acm.org/doi/10.1145/3729173)
 8. 2025-SIGMOD Online Detection of Anomalies in Temporal Knowledge Graphs with Interpretability[[pdf]](https://arxiv.org/abs/2408.00872)
-The more detailed relatedwork can be seen in [awesome-graph-explainability-papers](https://github.com/flyingdoog/awesome-graph-explainability-papers) 
 
 **dynamic grapn anomaly detection**
 1. 2023-1JCAl SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs[[pdf]](https://dl.acm.org/doi/10.24963/ijcai.2023/256)
