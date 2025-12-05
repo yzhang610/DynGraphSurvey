@@ -35,11 +35,12 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 11. 2022-CGrid VCSR: Mutable CSR Graph Format Using Vertex-Centric Packed Memory Array[[pdf]](https://ieeexplore.ieee.org/document/9826086)[[code]](https://github.com/DIR-LAB/VCSR)
 12. 2023-TKDE An Efficient Data Sturcture for Dynamic Graph on GPUs[[pdf]](https://dl.acm.org/doi/10.1109/TKDE.2023.3235941)
 13. 2023-SC MBFGraph: An SSD-Based Analytics System for Evolving Graphs[[pdf]](https://dl.acm.org/doi/10.1145/3581784.3607070)
-14. 2024-EuroSys LSGraph: A Locality-centric High-performance Streaming Graph Engine[[pdf]](https://dl.acm.org/doi/10.1145/3627703.3650076)
+14. 2024-EuroSys LSGraph: A Locality-centric High-performance Streaming Graph Engine[[pdf]](https://dl.acm.org/doi/10.1145/3627703.3650076)[[code]](https://github.com/ldeng-ustc/bubble_rel/tree/master/LSGraph)
 15. 2024-PPoPP CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers[[pdf]](https://arxiv.org/abs/2305.05055)
 16. 2024-SC DGAP: Efficient Dynamic Graph Analysis on Persistent Memory[[pdf]](https://arxiv.org/abs/2403.02665)[[code]](https://github.com/DIR-LAB/DGAP)
 17. 2025-TS Scalable and High-Performance Large-Scale Dynamic Graph Storage and Processing System[[pdf]](https://dl.acm.org/doi/10.1145/3715332)
 18. 2025-SIGMOD LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-Level CSR[[pdf]](https://arxiv.org/abs/2411.06392)
+19. 2025-SC Bubble: Towards Scalable Evolving Graph Processing via Mini-Batch Sorting[[pdf]](https://dl.acm.org/doi/10.1145/3712285.3759897)[[code]](https://github.com/ldeng-ustc/bubble_rel) 
 
 **AJ-liked**
 1. 2012-HPEC STINGER: High Performance Data Structure for Streaming Graphs[[pdf]](https://ieeexplore.ieee.org/document/6408680)[[code]](https://github.com/stingergraph/stinger)
