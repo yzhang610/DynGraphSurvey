@@ -30,7 +30,6 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 6. 2020-OPODIS CSR++: A Fast, Scalable, Update-Friendly Graph Data Structure[[pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol184-opodis2020/LIPIcs.OPODIS.2020.17/LIPIcs.OPODIS.2020.17.pdf)
 7. 2021-BigData SSTGraph Streaming Sparse Graphs using Efficient Dynamic Sets[[pdf]](https://ieeexplore.ieee.org/document/9671836)
 8. 2021-A Parallel Packed Memory Array to Store Dynamic Graphs[[pdf]](https://people.csail.mit.edu/hjxu/papers/ppcsr-alenex.pdf)[[code]](https://github.com/wheatman/PPCSR_)
-9. 2021-FPGA GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.1145/3431920.3439288)
 10. 2021-VLDB Teseo and the Analysis of Structural Dynamic Graphs[[pdf]](https://vldb.org/pvldb/vol14/p1053-leo.pdf)[[code]](https://github.com/cwida/teseo)
 11. 2022-CGrid VCSR: Mutable CSR Graph Format Using Vertex-Centric Packed Memory Array[[pdf]](https://ieeexplore.ieee.org/document/9826086)[[code]](https://github.com/DIR-LAB/VCSR)
 12. 2023-TKDE An Efficient Data Sturcture for Dynamic Graph on GPUs[[pdf]](https://dl.acm.org/doi/10.1109/TKDE.2023.3235941)
@@ -134,8 +133,45 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 10. 2024-TPDS TeGraph+: Scalable Temporal Graph Processing Enabling Flexible Edge Modifications[[pdf]](https://ieeexplore.ieee.org/document/10508970/)
 11. 2025-TACO CGCGraph: Efficient CPU-GPU Co-execution for Concurrent Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.1145/3744904)
 
+**动态图加速器**
+1. 2021-FPGA GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.1145/3431920.3439288)
+2. 2024-MICRO MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization[[pdf]](https://arxiv.org/abs/2311.09775)
+
 ## dynamic graph pattern work
+2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs
 
 ## dynamic graph learning
+2020-AAAl EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs[[pdf]](https://arxiv.org/abs/1902.10191)
+2021-SIGMOD APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding[[pdf]](https://arxiv.org/abs/2011.11545)
+2022-TKDE Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting[[pdf]](https://ieeexplore.ieee.org/document/9346058)
+2022-IJCAI DyGRAlN: An Incremental Learning Framework for Dynamic Graphs[[pdf]](https://www.ijcai.org/proceedings/2022/0438.pdf)
+2022-KDD ROLAND: Graph Learning Framework for Dynamic Graphs[[pdf]](https://arxiv.org/abs/2208.07239)[[code]](https://github.com/snap-stanford/roland)
+2023-SPEED: Streaming Partition and Parallel Acceleration for Temporal Interaction Graph Embedding[[pdf]](https://arxiv.org/abs/2308.14129)[[code]](https://github.com/chenxi1228/SPEED)
+2023-TACO RACE: An Efficient Redundancy-aware Accelerator for Dynamic Graph Neural Network[[pdf]](https://dl.acm.org/doi/10.1145/3617685)
+2023-ICLR Do We Really Need Complicated Model Architectures for Temporal Networks?[[pdf]](https://arxiv.org/abs/2302.11636)
+2024-ASPLOS TGLITE: A Lightweight Programming Framework for Continuous-Time Temporal Graph Neural Networks[[pdf]](https://charithmendis.com/assets/pdf/asplos24-tglite.pdf)[[code]](https://github.com/ADAPT-uiuc/tglite)
+2024-ICDE Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting[[pdf]](https://arxiv.org/abs/2312.16403)
+2024-ICDE CPDG:A Constrastive Pre-Training Method for Dynamic Graph Neural Networks[[pdf]](https://arxiv.org/abs/2307.02813)[[code]](https://github.com/YuanchenBei/CPDG)
+2024-ICDE TP-GNN: Continuous Dynamic Graph Neural Network for Graph Classification[[pdf]](https://ieeexplore.ieee.org/document/10598033)
+2024-ICLR FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction[[pdf]](https://openreview.net/forum?id=82Mc5ilInM)[[code]](https://github.com/Tianxzzz/FreeDyG)
+
+动态GNN训练
+2021-SC Efficient Scaling of Dynamic Graph Neural Networks[[pdf]](https://arxiv.org/abs/2109.07893)
+2022-CIMK PlatoGL: Effective and Scalable Deep Graph Learning System for Graph-enhanced Real-Time Recommendation[[pdf]](https://dl.acm.org/doi/10.1145/3511808.3557084)
+2022-LLSWC Bottleneck Analysis of Dynamic Graph Neural Network Inference on CPU and GPU[[pdf]](https://arxiv.org/abs/2210.03900)
+2023-VLDB NeutronStream: A Dynamic GNN Training Framework with Sliding Window for Graph Streams[[pdf]](https://www.vldb.org/pvldb/vol17/p455-chen.pdf)
+2023-VLDB Decoupled Graph Neural Networks for Large Dynamic Graphs[[pdf]](https://www.vldb.org/pvldb/vol16/p2239-zheng.pdf)
+2023-PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs[[pdf]](https://dl.acm.org/doi/10.1145/3572848.3577487)
+2024-VLDB D3-GNN:Dynamic Distributed Dataflow for Streaming Graph Neural Networks[[pdf]](https://dl.acm.org/doi/10.14778/3681954.3681961)
+2024-VLDB DynaHB: A Communication-Avoiding Asynchronous Distributed Framework with Hybrid Batches for Dynamic GNN Training[[pdf]](https://dl.acm.org/doi/abs/10.14778/3681954.3682008)
+2024-SIGMOD DGC: Training Dynamic Graphs with Spatio-Temporal Non-Uniformity using Graph Partitioning by Chunks[[pdf]](https://arxiv.org/abs/2309.03523)
+2024-CDE TimeSGN Scalable and Effective Temporal Graph Neural Netowork[[pdf] ](https://ieeexplore.ieee.org/document/10597745)
+2024-ICDE PlatoD2GL: An Efficient Dynamic Deep Graph Learning System for Graph Neural Networks Training on Billion-Scale Graphs[[pdf]](https://ieeexplore.ieee.org/document/10597951)
+2024-HPCA Enabling Large Dynamic Neural Network Training with Learning-based Memory Management[[pdf]](https://ieeexplore.ieee.org/document/10476398)
+
+动态图异常检测
+2023-1JCAl SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs[[pdf]](https://dl.acm.org/doi/10.24963/ijcai.2023/256)
+2024-ICDE Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597723)
+
 
 
