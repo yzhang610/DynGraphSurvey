@@ -37,10 +37,11 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 14. 2024-EuroSys LSGraph: A Locality-centric High-performance Streaming Graph Engine[[pdf]](https://dl.acm.org/doi/10.1145/3627703.3650076)[[code]](https://github.com/ldeng-ustc/bubble_rel/tree/master/LSGraph)
 15. 2024-PPoPP CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers[[pdf]](https://arxiv.org/abs/2305.05055)
 16. 2024-SC DGAP: Efficient Dynamic Graph Analysis on Persistent Memory[[pdf]](https://arxiv.org/abs/2403.02665)[[code]](https://github.com/DIR-LAB/DGAP)
-17. 2025-ISPA DCSR: A Dual-Layer Graph Storage Structure for Hybrid Transactional and Analytical Processing[[pdf]](https://www.computer.org/csdl/proceedings-article/ispa/2025/668400a625/2c0NRI7bSQU)
-18. 2025-TS Scalable and High-Performance Large-Scale Dynamic Graph Storage and Processing System[[pdf]](https://dl.acm.org/doi/10.1145/3715332)
-19. 2025-SIGMOD LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-Level CSR[[pdf]](https://arxiv.org/abs/2411.06392)
-20. 2025-SC Bubble: Towards Scalable Evolving Graph Processing via Mini-Batch Sorting[[pdf]](https://dl.acm.org/doi/10.1145/3712285.3759897)[[code]](https://github.com/ldeng-ustc/bubble_rel) 
+17. 2025-APPT GASgraph: A GPU-accelerated Streaming Graph Processing System based on SubHPMAs[[pdf]](https://dl.acm.org/doi/10.1007/978-981-95-1021-4_21)
+18. 2025-ISPA DCSR: A Dual-Layer Graph Storage Structure for Hybrid Transactional and Analytical Processing[[pdf]](https://www.computer.org/csdl/proceedings-article/ispa/2025/668400a625/2c0NRI7bSQU)
+19. 2025-TS Scalable and High-Performance Large-Scale Dynamic Graph Storage and Processing System[[pdf]](https://dl.acm.org/doi/10.1145/3715332)
+20. 2025-SIGMOD LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-Level CSR[[pdf]](https://arxiv.org/abs/2411.06392)
+21. 2025-SC Bubble: Towards Scalable Evolving Graph Processing via Mini-Batch Sorting[[pdf]](https://dl.acm.org/doi/10.1145/3712285.3759897)[[code]](https://github.com/ldeng-ustc/bubble_rel) 
 
 **AJ-liked**
 1. 2012-HPEC STINGER: High Performance Data Structure for Streaming Graphs[[pdf]](https://ieeexplore.ieee.org/document/6408680)[[code]](https://github.com/stingergraph/stinger)
