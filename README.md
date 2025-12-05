@@ -133,7 +133,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 10. 2024-TPDS TeGraph+: Scalable Temporal Graph Processing Enabling Flexible Edge Modifications[[pdf]](https://ieeexplore.ieee.org/document/10508970/)
 11. 2025-TACO CGCGraph: Efficient CPU-GPU Co-execution for Concurrent Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.1145/3744904)
 
-**动态图加速器**
+**dyanmic graph processing on FPGA, AISC, etc**
 1. 2021-FPGA GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.1145/3431920.3439288)
 2. 2024-MICRO MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization[[pdf]](https://arxiv.org/abs/2311.09775)
 
@@ -141,6 +141,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 1. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs
 
 ## dynamic graph learning
+**dynamic GNN design
 1. 2020-AAAl EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs[[pdf]](https://arxiv.org/abs/1902.10191)
 2. 2021-SIGMOD APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding[[pdf]](https://arxiv.org/abs/2011.11545)
 3. 2022-TKDE Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting[[pdf]](https://ieeexplore.ieee.org/document/9346058)
@@ -155,7 +156,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 12. 2024-ICDE TP-GNN: Continuous Dynamic Graph Neural Network for Graph Classification[[pdf]](https://ieeexplore.ieee.org/document/10598033)
 13. 2024-ICLR FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction[[pdf]](https://openreview.net/forum?id=82Mc5ilInM)[[code]](https://github.com/Tianxzzz/FreeDyG)
 
-动态GNN训练
+**dynamic GNN training**
 1. 2021-SC Efficient Scaling of Dynamic Graph Neural Networks[[pdf]](https://arxiv.org/abs/2109.07893)
 2. 2022-CIMK PlatoGL: Effective and Scalable Deep Graph Learning System for Graph-enhanced Real-Time Recommendation[[pdf]](https://dl.acm.org/doi/10.1145/3511808.3557084)
 3. 2022-LLSWC Bottleneck Analysis of Dynamic Graph Neural Network Inference on CPU and GPU[[pdf]](https://arxiv.org/abs/2210.03900)
@@ -169,7 +170,10 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 11. 2024-ICDE PlatoD2GL: An Efficient Dynamic Deep Graph Learning System for Graph Neural Networks Training on Billion-Scale Graphs[[pdf]](https://ieeexplore.ieee.org/document/10597951)
 12. 2024-HPCA Enabling Large Dynamic Neural Network Training with Learning-based Memory Management[[pdf]](https://ieeexplore.ieee.org/document/10476398)
 
-动态图异常检测
+**dynamic GNN explaination**
+
+
+**dynamic grapn anomaly detection**
 1. 2023-1JCAl SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs[[pdf]](https://dl.acm.org/doi/10.24963/ijcai.2023/256)
 2. 2024-ICDE Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597723)
 
