@@ -69,6 +69,27 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 5. 2025-CDE CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs[[pdf]](https://ieeexplore.ieee.org/document/11112841)[[code]](https://github.com/pkufzc/CuckooGraph)
 
 ## dynamic graph analytics work
+**Incremental Computation**
+1. 2013-TPDS Maiter: An Asynchronous Graph Processing Framework for Delta-based Accumulative Iterative Computation[[pdf]](https://ieeexplore.ieee.org/document/6600686)[[code]](https://github.com/zhangyf-neu/maiter)
+2. 2016-Euro-Par GraphIn: An Online High Performance Incremental Graph Processing Framework[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-43659-3_24)
+3. 2017-ASPLOS KickStarter: Fast and Accurate Computations on Streaming Graphs via Trimmed Approximations[[pdf]](https://dl.acm.org/doi/10.1145/3093337.3037748)[[code]](https://github.com/pdclab/graphbolt)
+4. 2017-ICS EvoGraph: On-the-fly Efficient Mining of Evoving Graphs on GPU[[pdf]](https://dl.acm.org/doi/10.1007/978-3-319-58667-0_6)
+5. 2019-EuroSys GraphBolt: Dependency-Driven Synchronous Processing of Streaming Graphs[[pdf]](https://dl.acm.org/doi/10.1145/3302424.3303974)[[code]](https://github.com/pdclab/graphbolt)
+6. 2021-SIGMOD Incrementalizing Graph Algorithms[[pdf]](https://basics.sjtu.edu.cn/~qyin/papers/inc-1.pdf)
+7. 2021-USENIX TEGRA: Efficient Ad-Hoc Analytics on Evolving Graphs[[pdf]](https://www.usenix.org/conference/nsdi21/presentation/iyer)
+8. 2021-ATC Controlling Memory Footprint of Stateful Streaming Graph Processing[[pdf]](https://www.usenix.org/conference/atc21/presentation/vaziri)
+9. 2021-EuroSys DZlG: Sparsity-Aware Incremental Processing of Streaming Graphs[[pdf]](https://dl.acm.org/doi/10.1145/3447786.3456230)
+10. 2021-EuroSys Tripoline: Generalized Incremental Graph Processing via Graph Triangle lnequality[[pdf]](https://dl.acm.org/doi/10.1145/3447786.3456226)
+11. 2021-MICRO JetStream: Graph Analytics on Streaming Data with Event-Driven Hardware Accelerator[[pdf]](https://dl.acm.org/doi/10.1145/3466752.3480126)
+12. 2022-VLDB Automating Incremental Graph Processing with Flexible Memoization[[pdf]](https://vldb.org/pvldb/vol14/p1613-gong.pdf)
+13. 2022-SC Graphfly: Efficient Asynchronous Streaming Graphs Processing via Dependency-flow[[pdf]](https://ieeexplore.ieee.org/document/10046059)[[code]](https://github.com/GFLY-PAPER/GraphFly)
+14. 2023-DAC ACGraph: Accelerating Streaming Graph Processing via Dependence Hierarchy[[pdf]](https://ieeexplore.ieee.org/document/10247904/)
+15. 2023-ICDE Layph Making Change Propagation Constraint in Incremental Graph Processing by Layering Graph[[pdf]](https://arxiv.org/abs/2304.07458)
+16. 2023-ASPLOs CommonGraph: Graph Analytics on Evolving Data[[pdf]](https://dl.acm.org/doi/10.1145/3575693.3575713)
+17. 2024-SoCC IncBoost: Scaling Incremental Graph Processing for Edge Deletions and Weight Updates[[pdf]](https://dl.acm.org/doi/10.1145/3698038.3698524)
+18. 2024-VLDB Enabling Window-Based Monotonic Graph Analytics with Reusable Transitional Results for Pattern-Consistent Queries[[pdf]](https://dl.acm.org/doi/10.14778/3681954.3681979)
+19. 2025 Analysis of Stable Vertex Values: Fast Query Evaluation Over An Evolving Graph[[pdf]](https://arxiv.org/abs/2502.10579)
+20. 2025-VLDB Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing[[pdf]](https://www.vldb.org/pvldb/vol18/p3854-wang.pdf)[[code]](https://github.com/Yongze-zzz/C-GpuStreamGraph)
 
 ## dynamic graph pattern work
 
