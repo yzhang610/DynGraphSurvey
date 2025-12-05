@@ -13,12 +13,12 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 10. Revisiting the design of in-memory dynamic graph storage[[pdf]](https://arxiv.org/abs/2502.10959)
 11. BYO: A unified framework for benchmarking large-scale graph containers[[pdf]](https://vldb.org/pvldb/vol17/p2307-wheatman.pdf)
 12. A survey on dynamic graph processing on GPUs: concepts, terminologies and systems[[pdf]](https://link.springer.com/article/10.1007/s11704-023-2656-1)
-13. Towards sufficient GPU-accelerated dynamic graph management: Survey and experiment
-14. BIFROST: A future graph database runtime
-15. Demystifying graph databases: Analysis and taxonomy of data organization, system designs, and graph queries
-16. Representation learning for dynamic graphs: a survey
-17. Foundations and modeling of dynamic networks using dynamic graph neural networks: A survey
-18. A comprehensive survey of dynamic graph neural networks: Models, frameworks, benchmarks, experiments and challenges
+13. Towards sufficient GPU-accelerated dynamic graph management: Survey and experiment[[pdf]](https://www.vldb.org/pvldb/vol18/p599-lin.pdf)
+14. BIFROST: A future graph database runtime[[pdf]](https://ieeexplore.ieee.org/document/10597713/)
+15. Demystifying graph databases: Analysis and taxonomy of data organization, system designs, and graph queries[[pdf]](https://arxiv.org/abs/1910.09017)
+16. Representation learning for dynamic graphs: a survey[[pdf]](https://arxiv.org/abs/1905.11485)
+17. Foundations and modeling of dynamic networks using dynamic graph neural networks: A survey[[pdf]](https://ieeexplore.ieee.org/document/9439502)
+18. A comprehensive survey of dynamic graph neural networks: Models, frameworks, benchmarks, experiments and challenges[[pdf]](https://arxiv.org/abs/2405.00476)
 
 ## dynamic graph storage work
 
