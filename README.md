@@ -11,7 +11,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 8. Hardware acceleration for knowledge graph processing: Challenges & recent developments[[pdf]](https://arxiv.org/abs/2408.12173)
 9. Practice of streaming processing of dynamic graphs: Concepts, models, and systems[[pdf]](https://arxiv.org/abs/1912.12740)
 10. Revisiting the design of in-memory dynamic graph storage[[pdf]](https://arxiv.org/abs/2502.10959)
-11. BYO: A unified framework for benchmarking large-scale graph containers[[pdf]](https://vldb.org/pvldb/vol17/p2307-wheatman.pdf)
+11. BYO: A unified framework for benchmarking large-scale graph containers[[pdf]](https://vldb.org/pvldb/vol17/p2307-wheatman.pdf)[[code]](https://github.com/wheatman/BYO)
 12. A survey on dynamic graph processing on GPUs: concepts, terminologies and systems[[pdf]](https://link.springer.com/article/10.1007/s11704-023-2656-1)
 13. Towards sufficient GPU-accelerated dynamic graph management: Survey and experiment[[pdf]](https://www.vldb.org/pvldb/vol18/p599-lin.pdf)
 14. BIFROST: A future graph database runtime[[pdf]](https://ieeexplore.ieee.org/document/10597713/)
