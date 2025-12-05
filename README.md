@@ -52,7 +52,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 9. 2020-FAST GraphOne: A Data Store for Real-time Analytics on Evolving Graphs[[pdf]](https://www.usenix.org/conference/fast19/presentation/kumar)[[code]](https://github.com/the-data-lab/GraphOne)
 10. 2021-SIGMOD Terrace A Hierarchical Graph Container for Skewed Dynamic Graphs[[pdf]](https://dl.acm.org/doi/10.1145/3448016.3457313)[[code]](https://github.com/PASSIONLab/terrace)
 11. 2021-SIGMOD RisGraph: A Real-Time Streaming System for Evolving Graphs to Support Sub-millisecond Per-update Analysis at Millions Ops/s[[pdf]](https://dl.acm.org/doi/10.1145/3448016.3457263)
-12. 2022-MICRO XPGraph: XPline-Friendly Persistent Memory Graph Stores for Large-Scale Evolving Graphs[[pdf]](https://dl.acm.org/doi/pdf/10.1109/MICRO56248.2022.00091)
+12. 2022-MICRO XPGraph: XPline-Friendly Persistent Memory Graph Stores for Large-Scale Evolving Graphs[[pdf]](https://dl.acm.org/doi/pdf/10.1109/MICRO56248.2022.00091)[[code]](https://github.com/ISCS-ZJU/XPGraph)
 13. 2022-VLDB Sortledton: a Universal, Transactional Graph Data Structure[[pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)[[code]](https://gitlab.db.in.tum.de/per.fuchs/sortledton/)
 14. 2024-ISPA DAUSK: A Transactional Graph Structure for Skewed Dynamic Graph Storage[[pdf]](https://ieeexplore.ieee.org/document/10885300)
 15. 2024-TDB TgStore: An Efficient Storage System for Large Time-Evolving Graphs[[pdf]](https://ieeexplore.ieee.org/document/10436166)
