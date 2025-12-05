@@ -37,7 +37,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 13. 2023-SC MBFGraph: An SSD-Based Analytics System for Evolving Graphs[[pdf]](https://dl.acm.org/doi/10.1145/3581784.3607070)
 14. 2024-EuroSys LSGraph: A Locality-centric High-performance Streaming Graph Engine[[pdf]](https://dl.acm.org/doi/10.1145/3627703.3650076)
 15. 2024-PPoPP CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers[[pdf]](https://arxiv.org/abs/2305.05055)
-16. 2024-SC DGAP: Efficient Dynamic Graph Analysis on Persistent Memory[[pdf]](https://arxiv.org/abs/2403.02665)
+16. 2024-SC DGAP: Efficient Dynamic Graph Analysis on Persistent Memory[[pdf]](https://arxiv.org/abs/2403.02665)[[code]](https://github.com/DIR-LAB/DGAP)
 17. 2025-TS Scalable and High-Performance Large-Scale Dynamic Graph Storage and Processing System[[pdf]](https://dl.acm.org/doi/10.1145/3715332)
 18. 2025-SIGMOD LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-Level CSR[[pdf]](https://arxiv.org/abs/2411.06392)
 
@@ -45,7 +45,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 1. 2012-HPEC STINGER: High Performance Data Structure for Streaming Graphs[[pdf]](https://ieeexplore.ieee.org/document/6408680)[[code]](https://github.com/stingergraph/stinger)
 2. 2016-HPEC cuSTINGER: Supporting Dynamic Graph Algorithms for GPUs[[pdf]](https://ieeexplore.ieee.org/document/7761622)
 3. 2018-HPEC Hornet: An Efficient Data Structure for Dynamic Sparse Graphs and Matrices on GPUs[[pdf]](https://ieeexplore.ieee.org/document/8547541)[[code]](https://github.com/hornet-gt/hornet)
-4. 2018-SC faimGraph: High Performance Management of Fully-Dynamic Graphs Under Tight Memory Constraints on the GPU[[pdf]](https://ieeexplore.ieee.org/document/8665802)
+4. 2018-SC faimGraph: High Performance Management of Fully-Dynamic Graphs Under Tight Memory Constraints on the GPU[[pdf]](https://ieeexplore.ieee.org/document/8665802)[[code]](https://github.com/GPUPeople/faimGraph)
 6. 2019-PLDI Low-Latency Graph Streaming using Compressed Purely-Functional Trees[[pdf]](https://arxiv.org/abs/1904.08380)[[code]](https://github.com/ldhulipala/aspen)
 7. 2020-IPDPS Dynamic Graphs on the GPU[[pdf]](https://ieeexplore.ieee.org/document/9139818/)
 8. 2020-VLDB LiveGraph: A Transactional Graph Storage System with Purely Sequential Adjacency List Scans[[pdf]](https://dl.acm.org/doi/10.14778/3384345.3384351)[[code]](https://github.com/thu-pacman/LiveGraph)
