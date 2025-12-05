@@ -1,4 +1,4 @@
-# A-Comprehensive-Survey-on-Dynamic-Graph-Processing-Storage-and-Analytics
+# A Comprehensive Survey on Dynamic Graph Processing Storage and Analytics
 Organize the relevant work on dynamic graph storage and analysis to facilitate learning for related researchers.
 
 ## graph processing related survey work
@@ -21,7 +21,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 18. A comprehensive survey of dynamic graph neural networks: Models, frameworks, benchmarks, experiments and challenges[[pdf]](https://arxiv.org/abs/2405.00476)
 
 ## dynamic graph storage work
-1. 2015-ICDE LLAMA: Efficient Graph Analytics Using Large Multiversioned Arrays
+1. 2015-ICDE LLAMA: Efficient Graph Analytics Using Large Multiversioned Arrays[[pdf]](https://ieeexplore.ieee.org/document/7113298)
 2. 2017-VLDB Accelerating Dynamic Graph Analytics on GPUs
 3. 2019-GRADES Fast Concurrent Reads and Updates with PMAs
 4. 2019-ISCA GraphSSD: Graph Semantics Aware SSD
