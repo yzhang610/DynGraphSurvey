@@ -37,9 +37,10 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 14. 2024-EuroSys LSGraph: A Locality-centric High-performance Streaming Graph Engine[[pdf]](https://dl.acm.org/doi/10.1145/3627703.3650076)[[code]](https://github.com/ldeng-ustc/bubble_rel/tree/master/LSGraph)
 15. 2024-PPoPP CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers[[pdf]](https://arxiv.org/abs/2305.05055)
 16. 2024-SC DGAP: Efficient Dynamic Graph Analysis on Persistent Memory[[pdf]](https://arxiv.org/abs/2403.02665)[[code]](https://github.com/DIR-LAB/DGAP)
-17. 2025-TS Scalable and High-Performance Large-Scale Dynamic Graph Storage and Processing System[[pdf]](https://dl.acm.org/doi/10.1145/3715332)
-18. 2025-SIGMOD LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-Level CSR[[pdf]](https://arxiv.org/abs/2411.06392)
-19. 2025-SC Bubble: Towards Scalable Evolving Graph Processing via Mini-Batch Sorting[[pdf]](https://dl.acm.org/doi/10.1145/3712285.3759897)[[code]](https://github.com/ldeng-ustc/bubble_rel) 
+17. 2025-ISPA DCSR: A Dual-Layer Graph Storage Structure for Hybrid Transactional and Analytical Processing[[pdf]](https://www.computer.org/csdl/proceedings-article/ispa/2025/668400a625/2c0NRI7bSQU)
+18. 2025-TS Scalable and High-Performance Large-Scale Dynamic Graph Storage and Processing System[[pdf]](https://dl.acm.org/doi/10.1145/3715332)
+19. 2025-SIGMOD LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-Level CSR[[pdf]](https://arxiv.org/abs/2411.06392)
+20. 2025-SC Bubble: Towards Scalable Evolving Graph Processing via Mini-Batch Sorting[[pdf]](https://dl.acm.org/doi/10.1145/3712285.3759897)[[code]](https://github.com/ldeng-ustc/bubble_rel) 
 
 **AJ-liked**
 1. 2012-HPEC STINGER: High Performance Data Structure for Streaming Graphs[[pdf]](https://ieeexplore.ieee.org/document/6408680)[[code]](https://github.com/stingergraph/stinger)
@@ -58,8 +59,9 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 15. 2024-TDB TgStore: An Efficient Storage System for Large Time-Evolving Graphs[[pdf]](https://ieeexplore.ieee.org/document/10436166)
 16. 2024-VLDB GastCoCo: Graph Storage and Coroutine-Based Prefetch Co-Design for Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.14778/3704965.3704986)[[code]](https://github.com/GorgeouszzZ/GastCoCo)
 17. 2024-VLDB Sprue: A Fast yet Space-saving Structure for Dynamic Graph Storage[[pdf]](https://dl.acm.org/doi/10.1145/3639282)[[code]](https://github.com/Stardust-SJF/Spruce)
-18. 2025-VLDB BACH: Bridging Adjacency List and CSR Format using LSM-Trees for HGTAP Workloads[[pdf]](https://www.vldb.org/pvldb/vol18/p1509-miao.pdf)[[code]](https://github.com/2600254/BACH)
-19. 2025-VLDB RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries[[pdf]](https://dl.acm.org/doi/10.14778/3748191.3748217)
+18. 2025-HPCC TripleGraph: A High-Throughput Data Structure for Dynamic Graph Supporting Diverse Workloads[[pdf]](https://www.computer.org/csdl/proceedings-article/hpcc/2025/687400a552/2bggojnPUQg)
+19. 2025-VLDB BACH: Bridging Adjacency List and CSR Format using LSM-Trees for HGTAP Workloads[[pdf]](https://www.vldb.org/pvldb/vol18/p1509-miao.pdf)[[code]](https://github.com/2600254/BACH)
+20. 2025-VLDB RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries[[pdf]](https://dl.acm.org/doi/10.14778/3748191.3748217)
 
 **Hash-liked**
 1. 2019-PDPS GraphThinker: A High Performance Data Structure for Dynamic Graph Processing[[pdf]](https://ieeexplore.ieee.org/document/8821003/)[[code]](https://github.com/Wole308/graphtinker)
