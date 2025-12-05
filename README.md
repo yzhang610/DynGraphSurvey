@@ -140,6 +140,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 ## dynamic graph pattern work
 1. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs[[pdf]](https://www.vldb.org/pvldb/vol17/p162-yuan.pdf)
 2. 2025-ICDETeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms[[pdf]](https://ieeexplore.ieee.org/document/11113163)
+3. 2025-TACO Cheetah: Accelerating Dynamic Graph Mining with Grouping Updates[[pdf]](https://dl.acm.org/doi/full/10.1145/3736173)
 
 ## dynamic graph learning
 **dynamic GNN design**
