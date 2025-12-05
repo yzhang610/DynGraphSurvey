@@ -1,3 +1,4 @@
+<span style="font-family: Arial, sans-serif;">Arial 字体</span>
 # A Comprehensive Survey on Dynamic Graph Processing Storage and Analytics
 Organize the relevant work on dynamic graph storage and analysis to facilitate learning for related researchers.
 
@@ -26,45 +27,45 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 3. 2019-GRADES Fast Concurrent Reads and Updates with PMAs
 4. 2019-ISCA GraphSSD: Graph Semantics Aware SSD
 5. 2020-CSR++: A Fast, Scalable, Update-Friendly Graph Data Structure
-6. 2021-BigData SSTGraph Streaming Sparse Graphs using Efficient Dynamic Sets
-7. 2021-A Parallel Packed Memory Array to Store Dynamic Graphs
-8. 2021-FPGA GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing
-9. 2021-VLDB Teseo and the Analysis of Structural Dynamic Graphs
-10. 2022-CGrid VCSR: Mutable CSR Graph Format Using Vertex-Centric Packed Memory Array
-11. 2023-TKDE An Efficient Data Sturcture for Dynamic Graph on GPUs
-12. 2023-SC-MBFGraph: An SSD-Based Analytics System for Evolving Graphs
-13. 2024-EuroSys LSGraph: A Locality-centric High-performance Streaming Graph Engine
-14. 2024-PPoPP CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers
-15. 2024-SC DGAP: Efficient Dynamic Graph Analysis on Persistent Memory
-16. 2025-TS Scalable and High-Performance Large-Scale Dynamic Graph Storage and Processing System
-17. 2025-SIGMOD LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-Level CSR
+7. 2021-BigData SSTGraph Streaming Sparse Graphs using Efficient Dynamic Sets
+8. 2021-A Parallel Packed Memory Array to Store Dynamic Graphs
+9. 2021-FPGA GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing
+10. 2021-VLDB Teseo and the Analysis of Structural Dynamic Graphs
+11. 2022-CGrid VCSR: Mutable CSR Graph Format Using Vertex-Centric Packed Memory Array
+12. 2023-TKDE An Efficient Data Sturcture for Dynamic Graph on GPUs
+13. 2023-SC-MBFGraph: An SSD-Based Analytics System for Evolving Graphs
+14. 2024-EuroSys LSGraph: A Locality-centric High-performance Streaming Graph Engine
+15. 2024-PPoPP CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers
+16. 2024-SC DGAP: Efficient Dynamic Graph Analysis on Persistent Memory
+17. 2025-TS Scalable and High-Performance Large-Scale Dynamic Graph Storage and Processing System
+18. 2025-SIGMOD LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-Level CSR
 
-18. 2012-STINGER: High Performance Data Structure for Streaming Graphs
-19. 2016 cuSTINGER: Supporting Dynamic Graph Algorithms for GPUs
-20. 2018-HPEC Hornet: An Efficient Data Structure for Dynamic Sparse Graphs and Matrices on GPUs
-21. 2018-SC faimGraph: High Performance Management of Fully-Dynamic Graphs Under Tight Memory Constraints on the GPU
-22. 2018-HPEC Packed Compressed Sparse Row: A Dynamic Graph Representation
-23. 2019-PLDI Low-Latency Graph Streaming using Compressed Purely-Functional Trees
-24. 2020-IPDPS Dynamic Graphs on the GPU
-25. 2020-LiveGraph: A Transactional Graph Storage System with Purely Sequential Adjacency List Scans
-26. 2020-USENIX GraphOne: A Data Store for Real-time Analytics on Evolving Graphs
-27. 2021-SIGMOD Terrace A Hierarchical Graph Container for Skewed Dynamic Graphs
-28. 2021-SIGMOD RisGraph: A Real-Time Streaming System for Evolving Graphs to Support Sub-millisecond Per-update Analysis at Millions Ops/s
-29. 2022-MICRO XPGraph: XPline-Friendly Persistent Memory Graph Stores for Large-Scale Evolving Graphs
-30. 2022-PLDI Pac-trees: Supporting Parallel and Compressed Purely-Functional Collections
-31. 2022-VLDB Sortledton: a Universal, Transactional Graph Data Structure
-32. 2024-ISPA DAUSK: A Transactional Graph Structure for Skewed Dynamic Graph Storage
-33. 2024-TDB TgStore: An Efficient Storage System for Large Time-Evolving Graphs
-34. 2024-VLDB GastCoCo: Graph Storage and Coroutine-Based Prefetch Co-Design for Dynamic Graph Processing
-35. 2024-VLDB Sprue: A Fast yet Space-saving Structure for Dynamic Graph Storage
-36. 2025-VLDB BACH: Bridging Adjacency List and CSR Format using LSM-Trees for HGTAP Workloads
-37. 2025-VLDB RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries
+19. 2012-STINGER: High Performance Data Structure for Streaming Graphs
+20. 2016 cuSTINGER: Supporting Dynamic Graph Algorithms for GPUs
+21. 2018-HPEC Hornet: An Efficient Data Structure for Dynamic Sparse Graphs and Matrices on GPUs
+22. 2018-SC faimGraph: High Performance Management of Fully-Dynamic Graphs Under Tight Memory Constraints on the GPU
+23. 2018-HPEC Packed Compressed Sparse Row: A Dynamic Graph Representation
+24. 2019-PLDI Low-Latency Graph Streaming using Compressed Purely-Functional Trees
+25. 2020-IPDPS Dynamic Graphs on the GPU
+26. 2020-LiveGraph: A Transactional Graph Storage System with Purely Sequential Adjacency List Scans
+27. 2020-USENIX GraphOne: A Data Store for Real-time Analytics on Evolving Graphs
+28. 2021-SIGMOD Terrace A Hierarchical Graph Container for Skewed Dynamic Graphs
+29. 2021-SIGMOD RisGraph: A Real-Time Streaming System for Evolving Graphs to Support Sub-millisecond Per-update Analysis at Millions Ops/s
+30. 2022-MICRO XPGraph: XPline-Friendly Persistent Memory Graph Stores for Large-Scale Evolving Graphs
+31. 2022-PLDI Pac-trees: Supporting Parallel and Compressed Purely-Functional Collections
+32. 2022-VLDB Sortledton: a Universal, Transactional Graph Data Structure
+33. 2024-ISPA DAUSK: A Transactional Graph Structure for Skewed Dynamic Graph Storage
+34. 2024-TDB TgStore: An Efficient Storage System for Large Time-Evolving Graphs
+35. 2024-VLDB GastCoCo: Graph Storage and Coroutine-Based Prefetch Co-Design for Dynamic Graph Processing
+36. 2024-VLDB Sprue: A Fast yet Space-saving Structure for Dynamic Graph Storage
+37. 2025-VLDB BACH: Bridging Adjacency List and CSR Format using LSM-Trees for HGTAP Workloads
+38. 2025-VLDB RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries
 
-38. 2019-PDPS GraphThinker: A High Performance Data Structure for Dynamic Graph Processing
-39. 2021-ICDE DuCuckoo: Dynamic Hash Tables on GPUs
-40. 2022-SEA A Fast Data Structure for Dynamic Graphs Based on Hash-Indexed Adjacency Blocks
-41. 2023-1CDE Wind-Bell index: Towards Ultra-Fast Edge Query for Graph Databases
-42. 2025-CDE CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs
+39. 2019-PDPS GraphThinker: A High Performance Data Structure for Dynamic Graph Processing
+40. 2021-ICDE DuCuckoo: Dynamic Hash Tables on GPUs
+41. 2022-SEA A Fast Data Structure for Dynamic Graphs Based on Hash-Indexed Adjacency Blocks
+42. 2023-1CDE Wind-Bell index: Towards Ultra-Fast Edge Query for Graph Databases
+43. 2025-CDE CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs
 
 ## dynamic graph analytics work
 
