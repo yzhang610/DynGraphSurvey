@@ -132,6 +132,7 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 9. 2023-SIGMOD GeaFlow: A Graph Extended and Accelerated Dataflow System[[pdf]](https://dl.acm.org/doi/10.1145/3589771)
 10. 2024-TPDS TeGraph+: Scalable Temporal Graph Processing Enabling Flexible Edge Modifications[[pdf]](https://ieeexplore.ieee.org/document/10508970/)
 11. 2025-TACO CGCGraph: Efficient CPU-GPU Co-execution for Concurrent Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.1145/3744904)
+12. 2025-ASPLOS TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU[[pdf]](https://dl.acm.org/doi/10.1145/3676642.3736116)
 
 **dyanmic graph processing on FPGA, AISC, etc**
 1. 2021-FPGA GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.1145/3431920.3439288)
