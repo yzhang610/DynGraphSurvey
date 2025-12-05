@@ -138,7 +138,8 @@ Organize the relevant work on dynamic graph storage and analysis to facilitate l
 2. 2024-MICRO MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization[[pdf]](https://arxiv.org/abs/2311.09775)
 
 ## dynamic graph pattern work
-1. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs
+1. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs[[pdf]](https://www.vldb.org/pvldb/vol17/p162-yuan.pdf)
+2. 2025-ICDETeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms[[pdf]](https://ieeexplore.ieee.org/document/11113163)
 
 ## dynamic graph learning
 **dynamic GNN design**
