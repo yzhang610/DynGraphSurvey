@@ -190,5 +190,48 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 1. 2023-IJCAl SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs[[pdf]](https://dl.acm.org/doi/10.24963/ijcai.2023/256)
 2. 2024-ICDE Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597723)
 
+## Graph Datasets
+1. SNAP (Stanford Network Analysis Project)
+   Features: Widely used, well-formatted, high-quality datasets suitable for graph algorithm benchmarks.
+   URL: https://snap.stanford.edu/data
+   Types: Social networks, road networks, Web graphs, collaboration networks, temporal graphs
+   Representative datasets: Facebook, Twitter, RoadNet, Web-Google, YouTube, Email-Enron
+2. KONECT (The Koblenz Network Collection)
+   URL: https://networks.skewed.de/
+   Features: One of the largest graph collections (700+ datasets), including timestamped graphs
+   Types: Social, transportation, biological networks, bipartite graphs, weighted graphs
+3. LAW / WebGraph (Large Web Graph)
+   URL: https://law.di.unimi.it/datasets.php
+   Features: Large-scale Web graphs such as uk-2002, eu-2015, and it-2004
+   Use cases: Large-scale PageRank, BFS, graph compression research
+4. NetworkRepository
+   URL: https://networkrepository.com/
+   Features: Interactive online visualization and dataset downloads
+   Types: Real-world graphs, random graphs, synthetic graphs, dynamic graphs
+5. SuiteSparse Matrix Collection
+   URL: https://sparse.tamu.edu/
+   Features: CSR/COO sparse matrices widely used in graph processing
+   Representative data: Road networks, graph Laplacians, random sparse matrices
+   Advantages: Commonly used in graph algorithm experiments such as BFS, SpMV, and GNNs
+6. Open Graph Benchmark (OGB)
+   URL: https://ogb.stanford.edu/
+   Use cases: GNN benchmarks (node classification, link prediction, graph classification)
+   Representative datasets: ogbn-products, ogbn-arxiv, ogbl-collab
+7. GraphChallenge / MIT Challenge
+   URL: https://graphchallenge.mit.edu/data
+   Features: Large-scale graph benchmarks suitable for GPU and distributed graph-processing performance evaluation
+   Representative datasets: Brain connectome, Web data, deep learning graphs
+8. LDBC (Linked Data Benchmark Council)
+   Features: Authoritative benchmark suite for graph databases and graph analytics; provides scalable, semantically rich datasets and standardized workloads.
+   Use cases: OLTP/OLAP workloads, graph databases, distributed graph processing, analytical benchmarks
+   Dataset entry points:
+   LDBC Social Network Benchmark (SNB): https://github.com/ldbc/ldbc_snb_data
+   LDBC SNB Data Generator: https://github.com/ldbc/ldbc_snb_datagen
+   LDBC Graphalytics Benchmark: https://github.com/ldbc/ldbc_graphalytics
+   LDBC FinBench (Financial Graph Benchmark): https://github.com/ldbc/ldbc_finbench
+9. Large-Scale Internet Graphs (Common Crawl Web Graph)
+   Features: Ultra-large Web-scale graphs (billions–tens of billions of edges), suitable for large-scale graph processing and system scalability evaluation.
+   Use cases: Web graph analytics, large-scale BFS/PageRank, distributed graph systems, GPU-scale benchmarking
+   URL: https://commoncrawl.org
 
 
