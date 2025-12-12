@@ -196,6 +196,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 6. 2024-ICLR Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks[[pdf]](https://proceedings.iclr.cc/paper_files/paper/2024/file/6e2a1a8a037f9a06004fe651054e8938-Paper-Conference.pdf)
 7. 2025-KDD DyExplainer: Explainable Dynamic Graph Neural Networks[[pdf]](https://dl.acm.org/doi/10.1145/3729173)
 8. 2025-SIGMOD Online Detection of Anomalies in Temporal Knowledge Graphs with Interpretability[[pdf]](https://arxiv.org/abs/2408.00872)
+9. 20205-IJCAI DGExplainer: explaining dynamic graph neural networks via relevance back-propagation[[pdf]](https://www.ijcai.org/proceedings/2025/0349.pdf)
 
 **dynamic grapn anomaly detection**
 1. 2023-IJCAl SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs[[pdf]](https://dl.acm.org/doi/10.24963/ijcai.2023/256)
