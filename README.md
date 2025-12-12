@@ -148,7 +148,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 2. 2024-MICRO MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization[[pdf]](https://arxiv.org/abs/2311.09775)
 
 ## Dynamic Graph Pattern and Learning
-## dynamic graph pattern
+### dynamic graph pattern
 1. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs[[pdf]](https://www.vldb.org/pvldb/vol17/p162-yuan.pdf)
 2. 2025-ICDE TeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms[[pdf]](https://ieeexplore.ieee.org/document/11113163)
 3. 2025-TACO Cheetah: Accelerating Dynamic Graph Mining with Grouping Updates[[pdf]](https://dl.acm.org/doi/full/10.1145/3736173)
@@ -157,7 +157,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 6. 2025-ICDE On Temporal-Constraint Subgraph Matching[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112848)
 7. 2025-ICDE Efficient Frequency-Aware k-Core Query on Temporal Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11113133)
 
-## dynamic graph learning
+### dynamic graph learning
 **dynamic GNN design**
 1. 2020-AAAl EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs[[pdf]](https://arxiv.org/abs/1902.10191)
 2. 2021-SIGMOD APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding[[pdf]](https://arxiv.org/abs/2011.11545)
@@ -211,7 +211,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 3. 2025-SIGMOD Online Detection of Anomalies in Temporal Knowledge Graphs with Interpretability[[pdf]](https://arxiv.org/abs/2408.00872)
 4. 2025-IJCAI Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts[[pdf]](https://arxiv.org/abs/2410.14886) 
 
-## Graph Datasets and Benchmarks
+## Dynamic Graph Datasets and Benchmarks
 ### graph datasets
 1. SNAP (Stanford Network Analysis Project)
    - Features: Widely used, well-formatted, high-quality datasets suitable for graph algorithm benchmarks.
