@@ -190,6 +190,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 13. 2024-HPCA Enabling Large Dynamic Neural Network Training with Learning-based Memory Management[[pdf]](https://ieeexplore.ieee.org/document/10476398)
 14. 2025-SIGMOD SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training[[pdf]](https://dl.acm.org/doi/10.1145/3725360)[[code]](https://songzhen0210.github.io/)
 15. 2025-IJCAI Efficient Dynamic Graph Learning with Refined Batch Parallel Training[[pdf]](https://dl.acm.org/doi/10.24963/ijcai.2025/312)
+16. 2025-HPCA I-DGNN: A Graph Dissimilarity-based Framework for Designing Scalable and Efficient DGNN Accelerators[[pdf]](https://ieeexplore.ieee.org/document/10946772)
 
 **dynamic GNN explaination** (The more detailed relatedwork can be seen in [awesome-graph-explainability-papers](https://github.com/flyingdoog/awesome-graph-explainability-papers) )
 1. 2021-ICDM GCN-SE Attention as Explainability for Node Classification in Dynamic Graphs[[pdf]](https://ieeexplore.ieee.org/iel7/9678506/9678989/09679020.pdf)
