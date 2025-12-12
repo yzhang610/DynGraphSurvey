@@ -167,6 +167,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 13. 2024-ICDE TP-GNN: Continuous Dynamic Graph Neural Network for Graph Classification[[pdf]](https://ieeexplore.ieee.org/document/10598033)
 14. 2024-ICLR FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction[[pdf]](https://openreview.net/forum?id=82Mc5ilInM)[[code]](https://github.com/Tianxzzz/FreeDyG)
 15. 2025-VLDB TEAM: Topological Evolution-Aware Framework for Traffic Forecasting[[pdf]](https://www.vldb.org/pvldb/vol18/p265-kieu.pdf)
+16. 2025-KDD TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer[[pdf]](https://arxiv.org/abs/2506.00431)
 
 **dynamic GNN training**
 1. 2021-SC Efficient Scaling of Dynamic Graph Neural Networks[[pdf]](https://arxiv.org/abs/2109.07893)
