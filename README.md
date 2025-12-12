@@ -98,9 +98,10 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 25. 2024-VLDB AeonG: An Efficient Built-in Temporal Support in Graph Databases[[pdf]](https://dl.acm.org/doi/abs/10.14778/3648160.3648187)
 26. 2024-BigData Building a High-Performance Graph Storage on Top of Tree-Structured Key-Value Stores[[pdf]](https://ieeexplore.ieee.org/document/10372995)
 27. 2024-VLDB KGFabric: A Scalable Knowledge Graph Warehouse for Enterprise Data Interconnection[[pdf]](https://dl.acm.org/doi/10.14778/3685800.3685810)
-28. 2025-SIGMOD A Modular Graph-Native Query Optimization Framework[[pdf]](https://dl.acm.org/doi/10.1145/3722212.3724425)
-29. 2025-SIGMOD Aster: Enhancing LSM-structures for Scalable Graph Database[[pdf] ](https://arxiv.org/abs/2501.06570)[[code]](https://github.com/NTU-Siqiang-Group/Aster)
-30. 2025-SIGMOD GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support[[pdf]](https://arxiv.org/abs/2405.01418)
+28. 2025-VLDB Dynamic Graph Databases with Out-of-order Updates[[pdf]](https://www.vldb.org/pvldb/vol17/p4799-khan.pdf)
+29. 2025-SIGMOD A Modular Graph-Native Query Optimization Framework[[pdf]](https://dl.acm.org/doi/10.1145/3722212.3724425)
+30. 2025-SIGMOD Aster: Enhancing LSM-structures for Scalable Graph Database[[pdf] ](https://arxiv.org/abs/2501.06570)[[code]](https://github.com/NTU-Siqiang-Group/Aster)
+31. 2025-SIGMOD GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support[[pdf]](https://arxiv.org/abs/2405.01418)
 
 ## dynamic graph analytics work
 **Incremental Computation**
@@ -164,6 +165,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 12. 2024-ICDE CPDG:A Constrastive Pre-Training Method for Dynamic Graph Neural Networks[[pdf]](https://arxiv.org/abs/2307.02813)[[code]](https://github.com/YuanchenBei/CPDG)
 13. 2024-ICDE TP-GNN: Continuous Dynamic Graph Neural Network for Graph Classification[[pdf]](https://ieeexplore.ieee.org/document/10598033)
 14. 2024-ICLR FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction[[pdf]](https://openreview.net/forum?id=82Mc5ilInM)[[code]](https://github.com/Tianxzzz/FreeDyG)
+15. 2025-VLDB TEAM: Topological Evolution-Aware Framework for Traffic Forecasting[[pdf]](https://www.vldb.org/pvldb/vol18/p265-kieu.pdf)
 
 **dynamic GNN training**
 1. 2021-SC Efficient Scaling of Dynamic Graph Neural Networks[[pdf]](https://arxiv.org/abs/2109.07893)
