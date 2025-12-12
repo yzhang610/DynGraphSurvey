@@ -209,7 +209,8 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 3. 2025-SIGMOD Online Detection of Anomalies in Temporal Knowledge Graphs with Interpretability[[pdf]](https://arxiv.org/abs/2408.00872)
 4. 2025-IJCAI Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts[[pdf]](https://arxiv.org/abs/2410.14886) 
 
-## Graph Datasets
+## Graph Datasets and Benchmarks
+### Graph Datasets
 1. SNAP (Stanford Network Analysis Project)
    - Features: Widely used, well-formatted, high-quality datasets suitable for graph algorithm benchmarks.
    - URL: https://snap.stanford.edu/data
@@ -253,7 +254,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
    - Use cases: Web graph analytics, large-scale BFS/PageRank, distributed graph systems, GPU-scale benchmarking
    - URL: https://commoncrawl.org
 
-# Graph Benchmarks
+### Graph Benchmarks
 1. BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.[[pdf]](https://arxiv.org/abs/2405.11671)[[code]](https://github.com/wheatman/BYO)
 2. GBBS Benchmark[[pdf]](https://dl.acm.org/doi/10.1145/3398682.3399168)[[code]](https://github.com/ParAlg/gbbs)
 3. GFE Driver[[pdf]](https://dl.acm.org/doi/abs/10.14778/3447689.3447708)[[code]](https://github.com/cwida/gfe_driver)
