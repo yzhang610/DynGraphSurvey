@@ -235,6 +235,9 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
    - URL: https://commoncrawl.org
 
 # Graph Benchmarks
-1. BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.[[pdf]](https://arxiv.org/abs/2405.11671)[code](https://github.com/wheatman/BYO)
+1. BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.[[pdf]](https://arxiv.org/abs/2405.11671)[[code]](https://github.com/wheatman/BYO)
+2. GBBS Benchmark[[pdf]](https://dl.acm.org/doi/10.1145/3398682.3399168)[[code]](https://github.com/ParAlg/gbbs)
+3. GFE Driver[[pdf]](https://dl.acm.org/doi/abs/10.14778/3447689.3447708)[[code]](https://github.com/cwida/gfe_driver)
+4. LDBC Benchmark[[pdf]](https://ldbcouncil.org/benchmarks/snb/)
 
 
