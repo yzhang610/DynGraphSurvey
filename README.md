@@ -145,6 +145,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 1. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs[[pdf]](https://www.vldb.org/pvldb/vol17/p162-yuan.pdf)
 2. 2025-ICDE TeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms[[pdf]](https://ieeexplore.ieee.org/document/11113163)
 3. 2025-TACO Cheetah: Accelerating Dynamic Graph Mining with Grouping Updates[[pdf]](https://dl.acm.org/doi/full/10.1145/3736173)
+4. 2025-SIGMOD Efficiently Counting Triangles in Large Temporal Graphs[[pdf]](https://dl.acm.org/doi/10.1145/3709688)
 
 ## dynamic graph learning work
 **dynamic GNN design**
@@ -175,6 +176,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 10. 2024-CDE TimeSGN Scalable and Effective Temporal Graph Neural Netowork[[pdf] ](https://ieeexplore.ieee.org/document/10597745)
 11. 2024-ICDE PlatoD2GL: An Efficient Dynamic Deep Graph Learning System for Graph Neural Networks Training on Billion-Scale Graphs[[pdf]](https://ieeexplore.ieee.org/document/10597951)
 12. 2024-HPCA Enabling Large Dynamic Neural Network Training with Learning-based Memory Management[[pdf]](https://ieeexplore.ieee.org/document/10476398)
+13. 2025-SIGMOD SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training[[pdf]](https://dl.acm.org/doi/10.1145/3725360)[[code]](https://songzhen0210.github.io/)
 
 **dynamic GNN explaination** (The more detailed relatedwork can be seen in [awesome-graph-explainability-papers](https://github.com/flyingdoog/awesome-graph-explainability-papers) )
 1. 2021-ICDM GCN-SE Attention as Explainability for Node Classification in Dynamic Graphs[[pdf]](https://ieeexplore.ieee.org/iel7/9678506/9678989/09679020.pdf)
