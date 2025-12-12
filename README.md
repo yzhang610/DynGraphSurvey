@@ -20,7 +20,8 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 17. Foundations and modeling of dynamic networks using dynamic graph neural networks: A survey[[pdf]](https://ieeexplore.ieee.org/document/9439502)
 18. A comprehensive survey of dynamic graph neural networks: Models, frameworks, benchmarks, experiments and challenges[[pdf]](https://arxiv.org/abs/2405.00476)
 
-## dynamic graph storage work
+## Dynamic Graph Storage and Graph Database
+### dynamic graph storage
 **CSR-liked**
 1. 2015-ICDE LLAMA: Efficient Graph Analytics Using Large Multiversioned Arrays[[pdf]](https://ieeexplore.ieee.org/document/7113298)[[code]](https://github.com/goatdb/llama)
 2. 2017-VLDB Accelerating Dynamic Graph Analytics on GPUs[[pdf]](https://arxiv.org/abs/1709.05061)[[code]](https://github.com/desert0616/gpma_demo)
@@ -72,7 +73,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 4. 2023-ICDE Wind-Bell index: Towards Ultra-Fast Edge Query for Graph Databases[[pdf]](https://ieeexplore.ieee.org/document/10184541)
 5. 2025-CDE CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs[[pdf]](https://ieeexplore.ieee.org/document/11112841)[[code]](https://github.com/pkufzc/CuckooGraph)
 
-**Graph databases**
+### graph databases
 1. 2013 ATC TAO: Facebook's Distributed Data Store for the Social Graph[[pdf]](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 2. 2015-TOS ImmortalGraph: A System for Storage and Analysis of Temporal Graphs[[pdf]](https://dl.acm.org/doi/10.1145/2700302)
 3. 2016-SIGMOD Reducing the Storage Overhead of Main-Memory OLTP Databases with Hybrid Indexes[[pdf]](https://dl.acm.org/doi/10.1145/2882903.2915222)
@@ -105,8 +106,8 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 31. 2025-SIGMOD Aster: Enhancing LSM-structures for Scalable Graph Database[[pdf] ](https://arxiv.org/abs/2501.06570)[[code]](https://github.com/NTU-Siqiang-Group/Aster)
 32. 2025-SIGMOD GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support[[pdf]](https://arxiv.org/abs/2405.01418)
 
-## dynamic graph analytics work
-**Incremental Computation**
+## Dynamic Graph Analytics
+### incremental computation
 1. 2013-TPDS Maiter: An Asynchronous Graph Processing Framework for Delta-based Accumulative Iterative Computation[[pdf]](https://ieeexplore.ieee.org/document/6600686)[[code]](https://github.com/zhangyf-neu/maiter)
 2. 2016-Euro-Par GraphIn: An Online High Performance Incremental Graph Processing Framework[[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-43659-3_24)
 3. 2017-ASPLOS KickStarter: Fast and Accurate Computations on Streaming Graphs via Trimmed Approximations[[pdf]](https://dl.acm.org/doi/10.1145/3093337.3037748)[[code]](https://github.com/pdclab/graphbolt)
@@ -128,7 +129,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 19. 2025 Analysis of Stable Vertex Values: Fast Query Evaluation Over An Evolving Graph[[pdf]](https://arxiv.org/abs/2502.10579)
 20. 2025-VLDB Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing[[pdf]](https://www.vldb.org/pvldb/vol18/p3854-wang.pdf)[[code]](https://github.com/Yongze-zzz/C-GpuStreamGraph)
 
-**dynamic graph processing without incremental computation**
+### dynamic graph processing without incremental computation
 1. 2014-EuroSys Towards Large-Scale Graph Stream Processing Platform2014-EuroSys Chronos: A Graph Engine for Temporal Graph Analysis[[pdf]](https://pacman.cs.tsinghua.edu.cn/papers_cwg/eurosys2014.pdf)
 2. 2016-Toc Synergistic Analysis of Evolving Graphs[[pdf]](https://dl.acm.org/doi/10.1145/2992784)
 3. 2016-SIGMOD Tornado: A System For Real-Time lterative Analysis Over Evolving Data2016-GRADEs Time-Evolving Graph Processing at Scale[[pdf]](https://dl.acm.org/doi/10.1145/2882903.2882950)
@@ -142,11 +143,12 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 11. 2025-TACO CGCGraph: Efficient CPU-GPU Co-execution for Concurrent Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.1145/3744904)
 12. 2025-ASPLOS TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU[[pdf]](https://dl.acm.org/doi/10.1145/3676642.3736116)
 
-**dyanmic graph processing on FPGA, AISC, etc**
+### dyanmic graph processing on FPGA, AISC, etc
 1. 2021-FPGA GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.1145/3431920.3439288)
 2. 2024-MICRO MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization[[pdf]](https://arxiv.org/abs/2311.09775)
 
-## dynamic graph pattern work
+## Dynamic Graph Pattern and Learning
+## dynamic graph pattern
 1. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs[[pdf]](https://www.vldb.org/pvldb/vol17/p162-yuan.pdf)
 2. 2025-ICDE TeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms[[pdf]](https://ieeexplore.ieee.org/document/11113163)
 3. 2025-TACO Cheetah: Accelerating Dynamic Graph Mining with Grouping Updates[[pdf]](https://dl.acm.org/doi/full/10.1145/3736173)
@@ -155,7 +157,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 6. 2025-ICDE On Temporal-Constraint Subgraph Matching[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112848)
 7. 2025-ICDE Efficient Frequency-Aware k-Core Query on Temporal Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11113133)
 
-## dynamic graph learning work
+## dynamic graph learning
 **dynamic GNN design**
 1. 2020-AAAl EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs[[pdf]](https://arxiv.org/abs/1902.10191)
 2. 2021-SIGMOD APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding[[pdf]](https://arxiv.org/abs/2011.11545)
@@ -210,7 +212,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 4. 2025-IJCAI Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts[[pdf]](https://arxiv.org/abs/2410.14886) 
 
 ## Graph Datasets and Benchmarks
-### Graph Datasets
+### graph datasets
 1. SNAP (Stanford Network Analysis Project)
    - Features: Widely used, well-formatted, high-quality datasets suitable for graph algorithm benchmarks.
    - URL: https://snap.stanford.edu/data
@@ -254,7 +256,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
    - Use cases: Web graph analytics, large-scale BFS/PageRank, distributed graph systems, GPU-scale benchmarking
    - URL: https://commoncrawl.org
 
-### Graph Benchmarks
+### graph benchmarks
 1. BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.[[pdf]](https://arxiv.org/abs/2405.11671)[[code]](https://github.com/wheatman/BYO)
 2. GBBS Benchmark[[pdf]](https://dl.acm.org/doi/10.1145/3398682.3399168)[[code]](https://github.com/ParAlg/gbbs)
 3. GFE Driver[[pdf]](https://dl.acm.org/doi/abs/10.14778/3447689.3447708)[[code]](https://github.com/cwida/gfe_driver)
