@@ -152,6 +152,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 3. 2025-TACO Cheetah: Accelerating Dynamic Graph Mining with Grouping Updates[[pdf]](https://dl.acm.org/doi/full/10.1145/3736173)
 4. 2025-SIGMOD Efficiently Counting Triangles in Large Temporal Graphs[[pdf]](https://dl.acm.org/doi/10.1145/3709688)
 5. 2025-ICDE StreamSC: A Learning-Based Framework for Efficient Subgraph Counting in Stream Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112861)
+6. 2025-ICDE On Temporal-Constraint Subgraph Matching[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112848)
 
 ## dynamic graph learning work
 **dynamic GNN design**
