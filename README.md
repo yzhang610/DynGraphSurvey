@@ -99,9 +99,10 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 26. 2024-BigData Building a High-Performance Graph Storage on Top of Tree-Structured Key-Value Stores[[pdf]](https://ieeexplore.ieee.org/document/10372995)
 27. 2024-VLDB KGFabric: A Scalable Knowledge Graph Warehouse for Enterprise Data Interconnection[[pdf]](https://dl.acm.org/doi/10.14778/3685800.3685810)
 28. 2025-VLDB Dynamic Graph Databases with Out-of-order Updates[[pdf]](https://www.vldb.org/pvldb/vol17/p4799-khan.pdf)
-29. 2025-SIGMOD A Modular Graph-Native Query Optimization Framework[[pdf]](https://dl.acm.org/doi/10.1145/3722212.3724425)
-30. 2025-SIGMOD Aster: Enhancing LSM-structures for Scalable Graph Database[[pdf] ](https://arxiv.org/abs/2501.06570)[[code]](https://github.com/NTU-Siqiang-Group/Aster)
-31. 2025-SIGMOD GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support[[pdf]](https://arxiv.org/abs/2405.01418)
+29. 2025-VLDB G-View: View Management for Graph Databases[[pdf]](https://dl.acm.org/doi/10.14778/3725688.3725702)
+30. 2025-SIGMOD A Modular Graph-Native Query Optimization Framework[[pdf]](https://dl.acm.org/doi/10.1145/3722212.3724425)
+31. 2025-SIGMOD Aster: Enhancing LSM-structures for Scalable Graph Database[[pdf] ](https://arxiv.org/abs/2501.06570)[[code]](https://github.com/NTU-Siqiang-Group/Aster)
+32. 2025-SIGMOD GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support[[pdf]](https://arxiv.org/abs/2405.01418)
 
 ## dynamic graph analytics work
 **Incremental Computation**
