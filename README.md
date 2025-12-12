@@ -234,4 +234,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
    - Use cases: Web graph analytics, large-scale BFS/PageRank, distributed graph systems, GPU-scale benchmarking
    - URL: https://commoncrawl.org
 
+# Graph Benchmarks
+1. BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.[[pdf]](https://arxiv.org/abs/2405.11671)[code](https://github.com/wheatman/BYO)
+
 
