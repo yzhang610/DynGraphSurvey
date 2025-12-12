@@ -1,7 +1,7 @@
 # A Comprehensive Survey on Dynamic Graph Processing Storage and Analytics
 This project reviews relevant work on dynamic graph storage and graph analytics. Dynamic graph storage covers both dynamic storage systems and graph databases, while dynamic graph analytics includes dynamic graph processing (streaming processing based on incremental computation and snapshot-based evolutionary processing), dynamic graph mining, and dynamic graph neural networks (model design, training, and interpretability). Due to space constraints, this paper provides only a brief overview of dynamic graph mining and dynamic graph neural networks. For a comprehensive review, please refer to **"A Comprehensive Survey on Dynamic Graph Processing, Storage, and Analytics"**.
 
-## graph processing related survey work
+## Graph Processing Related Survey Work
 1. Graph computing systems and partitioning techniques: A survey[[pdf](https://scispace.com/pdf/graph-computing-systems-and-partitioning-techniques-a-survey-3p9cvw18.pdf)]
 3. A survey of distributed graph algorithms on massive graphs[[pdf](https://arxiv.org/pdf/2404.06037)]
 4. The ubiquity of large graphs and surprising challenges of graph processing: extended survey[[pdf]](https://vldb.org/pvldb/vol11/p420-sahu.pdf)
@@ -212,7 +212,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 4. 2025-IJCAI Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts[[pdf]](https://arxiv.org/abs/2410.14886) 
 
 ## Dynamic Graph Datasets and Benchmarks
-### graph datasets
+### dynamic graph datasets
 1. SNAP (Stanford Network Analysis Project)
    - Features: Widely used, well-formatted, high-quality datasets suitable for graph algorithm benchmarks.
    - URL: https://snap.stanford.edu/data
@@ -256,7 +256,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
    - Use cases: Web graph analytics, large-scale BFS/PageRank, distributed graph systems, GPU-scale benchmarking
    - URL: https://commoncrawl.org
 
-### graph benchmarks
+### dynamic graph benchmarks
 1. BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.[[pdf]](https://arxiv.org/abs/2405.11671)[[code]](https://github.com/wheatman/BYO)
 2. GBBS Benchmark[[pdf]](https://dl.acm.org/doi/10.1145/3398682.3399168)[[code]](https://github.com/ParAlg/gbbs)
 3. GFE Driver[[pdf]](https://dl.acm.org/doi/abs/10.14778/3447689.3447708)[[code]](https://github.com/cwida/gfe_driver)
