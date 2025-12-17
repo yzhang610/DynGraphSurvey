@@ -212,6 +212,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 2. 2024-ICDE Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597723)
 3. 2025-SIGMOD Online Detection of Anomalies in Temporal Knowledge Graphs with Interpretability[[pdf]](https://arxiv.org/abs/2408.00872)
 4. 2025-IJCAI Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts[[pdf]](https://arxiv.org/abs/2410.14886)
+5. 2025-NeurIPS ScatterAD: Temporal-Topological Scattering Mechanism for Time Series Anomaly Detection[[pdf]](https://arxiv.org/abs/2509.24414)
 
 ## Dynamic Graph Datasets and Benchmarks
 ### dynamic graph datasets
