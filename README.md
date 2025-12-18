@@ -21,6 +21,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 16. Representation learning for dynamic graphs: a survey[[pdf]](https://arxiv.org/abs/1905.11485)
 17. Foundations and modeling of dynamic networks using dynamic graph neural networks: A survey[[pdf]](https://ieeexplore.ieee.org/document/9439502)
 18. A comprehensive survey of dynamic graph neural networks: Models, frameworks, benchmarks, experiments and challenges[[pdf]](https://arxiv.org/abs/2405.00476)
+19. A Comprehensive Benchmark on Spectral GNNs: The Impact on Efficiency, Memory, and Effectiveness[[pdf]](https://arxiv.org/abs/2406.09675)
 
 ## Dynamic Graph Storage and Graph Database
 ### dynamic graph storage
