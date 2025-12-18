@@ -152,13 +152,15 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 
 ## Dynamic Graph Pattern and Learning
 ### dynamic graph pattern
-1. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs[[pdf]](https://www.vldb.org/pvldb/vol17/p162-yuan.pdf)
-2. 2025-ICDE TeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms[[pdf]](https://ieeexplore.ieee.org/document/11113163)
-3. 2025-TACO Cheetah: Accelerating Dynamic Graph Mining with Grouping Updates[[pdf]](https://dl.acm.org/doi/full/10.1145/3736173)
-4. 2025-SIGMOD Efficiently Counting Triangles in Large Temporal Graphs[[pdf]](https://dl.acm.org/doi/10.1145/3709688)
-5. 2025-ICDE StreamSC: A Learning-Based Framework for Efficient Subgraph Counting in Stream Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112861)
-6. 2025-ICDE On Temporal-Constraint Subgraph Matching[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112848)
-7. 2025-ICDE Efficient Frequency-Aware k-Core Query on Temporal Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11113133)
+1. 2022-VLDB RapidFlow: An Efficient Approach to Continuous Subgraph Matching
+2. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs[[pdf]](https://www.vldb.org/pvldb/vol17/p162-yuan.pdf)
+3. 2025-ICDE TeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms[[pdf]](https://ieeexplore.ieee.org/document/11113163)
+4. 2025-TACO Cheetah: Accelerating Dynamic Graph Mining with Grouping Updates[[pdf]](https://dl.acm.org/doi/full/10.1145/3736173)
+5. 2025-SIGMOD Efficiently Counting Triangles in Large Temporal Graphs[[pdf]](https://dl.acm.org/doi/10.1145/3709688)
+6. 2025-ICDE StreamSC: A Learning-Based Framework for Efficient Subgraph Counting in Stream Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112861)
+7. 2025-ICDE On Temporal-Constraint Subgraph Matching[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112848)
+8. 2025-ICDE Efficient Frequency-Aware k-Core Query on Temporal Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11113133)
+
 
 ### dynamic graph learning
 **dynamic GNN design**
