@@ -260,9 +260,28 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
    - URL: https://commoncrawl.org
 
 ### dynamic graph benchmarks
+Dynamic graph processing has emerged as a critical research area in high-performance computing and graph databases, with benchmarks playing a pivotal role in evaluating system efficiency, scalability, and adaptability to dynamic graph updates. Below is a detailed introduction to four representative benchmarks: BYO, GBBS Benchmark, GFE Driver, and LDBC Benchmark.
 1. BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.[[pdf]](https://arxiv.org/abs/2405.11671)[[code]](https://github.com/wheatman/BYO)
+   BYO is a specialized, unified benchmarking framework designed explicitly for large-scale graph containers—the core storage components that underpin dynamic graph systems. Unlike traditional graph benchmarks that focus solely on algorithm performance, BYO targets the storage layer, addressing the unique challenges of managing dynamic graphs (e.g., frequent vertex/edge insertions, deletions, and updates) at scale.
+   Its key features include:
+   - A standardized set of workloads that simulate real-world dynamic graph scenarios, such as streaming edge updates and batch vertex modifications.
+   - Comprehensive metrics for evaluating graph container performance, including insertion/deletion throughput, query latency, memory overhead, and scalability across multi-core or distributed architectures.
+   - Modular design that supports seamless integration with diverse graph storage backends (e.g., in-memory hash tables, disk-based B+ trees, and distributed key-value stores).
 2. GBBS Benchmark[[pdf]](https://dl.acm.org/doi/10.1145/3398682.3399168)[[code]](https://github.com/ParAlg/gbbs)
+   The Graph Based Benchmark Suite (GBBS) is a high-performance benchmark suite tailored for parallel graph algorithms, with robust support for dynamic graph processing. Developed with a focus on shared-memory parallelism (optimized for multi-core CPUs), GBBS provides a curated set of graph algorithms and workloads that cover both static and dynamic graph operations.
+   Its key features include:
+   - A rich library of parallel dynamic graph algorithms, such as dynamic connectivity, dynamic shortest paths, and dynamic subgraph matching, which are optimized for low-latency updates and high-throughput querying.
+   - High-fidelity input graphs, including both synthetic datasets (generated to mimic power-law distributions) and real-world datasets (e.g., social networks, web graphs), to ensure benchmark results reflect practical performance.
+   - Fine-grained performance metrics, such as parallel speedup, update latency under contention, and cache efficiency, which are critical for evaluating the performance of dynamic graph systems on modern multi-core hardware.
 3. GFE Driver[[pdf]](https://dl.acm.org/doi/abs/10.14778/3447689.3447708)[[code]](https://github.com/cwida/gfe_driver)
+   Graph Framework Evaluation (GFE) Driver is a flexible benchmarking driver designed to evaluate the end-to-end performance of dynamic graph processing frameworks. Unlike component-specific benchmarks (e.g., BYO for storage), GFE Driver takes a holistic approach, measuring how graph frameworks handle the entire pipeline of dynamic graph processing—from data ingestion and storage to algorithm execution and result output.
+   Its key features include:
+   - Support for heterogeneous dynamic graph workloads, including online streaming updates (e.g., real-time social media interactions) and offline batch processing (e.g., periodic graph re-partitioning).
+   - Compatibility with a broad range of graph processing frameworks, whether they are in-memory (e.g., GraphChi), distributed (e.g., Pregel), or hardware-accelerated (e.g., GPU-based graph engines).
+   - Customizable evaluation workflows that allow users to define their own metrics (e.g., end-to-end latency, throughput under dynamic updates, and resource utilization) based on specific application requirements.
 4. LDBC Benchmark[[pdf]](https://ldbcouncil.org/benchmarks/snb/)
-
-
+   The Linked Data Benchmark Council (LDBC) Benchmark is a widely recognized, industry-standard suite for evaluating graph database management systems (GDBMS), with dedicated workloads for dynamic graph processing. Developed through collaborative efforts between academia and industry, LDBC addresses the need for standardized benchmarks that reflect the complexity of real-world graph applications.
+   Its key features include:
+   - LDBC Social Network Benchmark (SNB): Its most prominent workload, which simulates a dynamic social network with continuous user interactions (e.g., posting messages, adding friends, and updating profiles). This workload includes both read-only queries (e.g., friend-of-friend searches) and write-heavy updates, making it ideal for testing dynamic graph database performance.
+   - Rigorous scalability testing, with support for scaling from small-scale single-machine deployments to large-scale distributed systems, using datasets of varying sizes (from millions to billions of vertices/edges).
+   - Compliance with industry standards, ensuring that benchmark results are relevant for commercial graph database vendors and enterprise users.
