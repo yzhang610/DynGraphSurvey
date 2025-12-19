@@ -128,9 +128,10 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 15. 2023-ICDE Layph Making Change Propagation Constraint in Incremental Graph Processing by Layering Graph[[pdf]](https://arxiv.org/abs/2304.07458)
 16. 2023-ASPLOs CommonGraph: Graph Analytics on Evolving Data[[pdf]](https://dl.acm.org/doi/10.1145/3575693.3575713)
 17. 2024-SoCC IncBoost: Scaling Incremental Graph Processing for Edge Deletions and Weight Updates[[pdf]](https://dl.acm.org/doi/10.1145/3698038.3698524)
-18. 2024-VLDB Enabling Window-Based Monotonic Graph Analytics with Reusable Transitional Results for Pattern-Consistent Queries[[pdf]](https://dl.acm.org/doi/10.14778/3681954.3681979)
-19. 2025 Analysis of Stable Vertex Values: Fast Query Evaluation Over An Evolving Graph[[pdf]](https://arxiv.org/abs/2502.10579)
-20. 2025-VLDB Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing[[pdf]](https://www.vldb.org/pvldb/vol18/p3854-wang.pdf)[[code]](https://github.com/Yongze-zzz/C-GpuStreamGraph)
+19. 2024-VLDB Enabling Window-Based Monotonic Graph Analytics with Reusable Transitional Results for Pattern-Consistent Queries[[pdf]](https://dl.acm.org/doi/10.14778/3681954.3681979)
+20. 2025 Analysis of Stable Vertex Values: Fast Query Evaluation Over An Evolving Graph[[pdf]](https://arxiv.org/abs/2502.10579)
+21. 2025-TKDE GoGraph: Accelerating Graph Processing through Incremental Reordering[[pdf]](https://ieeexplore.ieee.org/document/11214289)
+22. 2025-VLDB Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing[[pdf]](https://www.vldb.org/pvldb/vol18/p3854-wang.pdf)[[code]](https://github.com/Yongze-zzz/C-GpuStreamGraph)
 
 ### dynamic graph processing without incremental computation
 1. 2014-EuroSys Towards Large-Scale Graph Stream Processing Platform2014-EuroSys Chronos: A Graph Engine for Temporal Graph Analysis[[pdf]](https://pacman.cs.tsinghua.edu.cn/papers_cwg/eurosys2014.pdf)
