@@ -194,7 +194,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 9. 2023-PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs[[pdf]](https://dl.acm.org/doi/10.1145/3572848.3577487)
 10. 2024-VLDB D3-GNN:Dynamic Distributed Dataflow for Streaming Graph Neural Networks[[pdf]](https://dl.acm.org/doi/10.14778/3681954.3681961)
 11. 2024-VLDB DynaHB: A Communication-Avoiding Asynchronous Distributed Framework with Hybrid Batches for Dynamic GNN Training[[pdf]](https://dl.acm.org/doi/abs/10.14778/3681954.3682008)
-12. 2024-VLDB ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs[[pdf]](https://www.vldb.org/pvldb/vol17/p1060-gao.pdf)
+12. 2024-VLDB ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs[[pdf]](https://www.vldb.org/pvldb/vol17/p1060-gao.pdf)[[code]](https://github.com/eddiegaoo/ETC)
 13. 2024-SIGMOD SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement[[pdf]](https://dl.acm.org/doi/10.1145/3654977)
 14. 2024-SIGMOD DGC: Training Dynamic Graphs with Spatio-Temporal Non-Uniformity using Graph Partitioning by Chunks[[pdf]](https://arxiv.org/abs/2309.03523)
 15. 2024-CDE TimeSGN Scalable and Effective Temporal Graph Neural Netowork[[pdf] ](https://ieeexplore.ieee.org/document/10597745)
