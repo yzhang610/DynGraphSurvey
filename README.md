@@ -47,7 +47,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 20. 2025-SIGMOD LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-Level CSR[[pdf]](https://arxiv.org/abs/2411.06392)
 21. 2025-ICDE LSM-Community: A Graph Storage System Exploiting Community Structure in Social Networks[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112922)
 22. 2025-SC Bubble: Towards Scalable Evolving Graph Processing via Mini-Batch Sorting[[pdf]](https://dl.acm.org/doi/10.1145/3712285.3759897)[[code]](https://github.com/ldeng-ustc/bubble_rel)
-23. 2025-DAC LearnGraph: A Learning-Based Architecture for Dynamic Graph Processing
+23. 2025-DAC LearnGraph: A Learning-Based Architecture for Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3627703.3650076)
 
 **AJ-liked**
 1. 2012-HPEC STINGER: High Performance Data Structure for Streaming Graphs[[pdf]](https://ieeexplore.ieee.org/document/6408680)[[code]](https://github.com/stingergraph/stinger)
@@ -162,7 +162,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 6. 2025-ICDE StreamSC: A Learning-Based Framework for Efficient Subgraph Counting in Stream Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112861)
 7. 2025-ICDE On Temporal-Constraint Subgraph Matching[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112848)
 8. 2025-ICDE Efficient Frequency-Aware k-Core Query on Temporal Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11113133)
-
+9. 2025-TACO GTSM: A multi-edge-centric temporal subgraph matching framework on GPUs[[pdf]](https://dl.acm.org/doi/10.1145/3771286)
 
 ### dynamic graph learning
 **dynamic GNN design**
