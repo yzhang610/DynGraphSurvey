@@ -156,14 +156,15 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 ### dynamic graph pattern
 1. 2022-VLDB RapidFlow: An Efficient Approach to Continuous Subgraph Matching[[pdf]](https://dl.acm.org/doi/10.14778/3551793.3551803)
 2. 2024-VLDB TC-Match: Fast Time-Constrained Continuous Subgraph Matching[[pdf]](https://dl.acm.org/doi/abs/10.14778/3681954.3681963)
-3. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs[[pdf]](https://www.vldb.org/pvldb/vol17/p162-yuan.pdf)
-4. 2025-ICDE TeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms[[pdf]](https://ieeexplore.ieee.org/document/11113163)
-5. 2025-TACO Cheetah: Accelerating Dynamic Graph Mining with Grouping Updates[[pdf]](https://dl.acm.org/doi/full/10.1145/3736173)
-6. 2025-SIGMOD Efficiently Counting Triangles in Large Temporal Graphs[[pdf]](https://dl.acm.org/doi/10.1145/3709688)
-7. 2025-ICDE StreamSC: A Learning-Based Framework for Efficient Subgraph Counting in Stream Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112861)
-8. 2025-ICDE On Temporal-Constraint Subgraph Matching[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112848)
-9. 2025-ICDE Efficient Frequency-Aware k-Core Query on Temporal Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11113133)
-10. 2025-TACO GTSM: A multi-edge-centric temporal subgraph matching framework on GPUs[[pdf]](https://dl.acm.org/doi/10.1145/3771286)
+3. 2024-IPDPS GCSM GPU-Accelerated Continuous Subgraph Matching for Large Graphs[[pdf]](https://ieeexplore.ieee.org/document/10579235/)
+4. 2024-VLDB Everest: GPU-Accelerated System For Mining Temporal Motifs[[pdf]](https://www.vldb.org/pvldb/vol17/p162-yuan.pdf)
+5. 2025-ICDE TeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms[[pdf]](https://ieeexplore.ieee.org/document/11113163)
+6. 2025-TACO Cheetah: Accelerating Dynamic Graph Mining with Grouping Updates[[pdf]](https://dl.acm.org/doi/full/10.1145/3736173)
+7. 2025-SIGMOD Efficiently Counting Triangles in Large Temporal Graphs[[pdf]](https://dl.acm.org/doi/10.1145/3709688)
+8. 2025-ICDE StreamSC: A Learning-Based Framework for Efficient Subgraph Counting in Stream Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112861)
+9. 2025-ICDE On Temporal-Constraint Subgraph Matching[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112848)
+10. 2025-ICDE Efficient Frequency-Aware k-Core Query on Temporal Graphs[[pdf]](https://ieeexplore.ieee.org/abstract/document/11113133)
+11. 2025-TACO GTSM: A multi-edge-centric temporal subgraph matching framework on GPUs[[pdf]](https://dl.acm.org/doi/10.1145/3771286)
 
 ### dynamic graph learning
 **dynamic GNN design**
