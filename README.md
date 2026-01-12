@@ -68,7 +68,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 17. 2024-VLDB Spruce: A Fast yet Space-saving Structure for Dynamic Graph Storage[[pdf]](https://dl.acm.org/doi/10.1145/3639282)[[code]](https://github.com/Stardust-SJF/Spruce)
 18. 2025-HPCC TripleGraph: A High-Throughput Data Structure for Dynamic Graph Supporting Diverse Workloads[[pdf]](https://www.computer.org/csdl/proceedings-article/hpcc/2025/687400a552/2bggojnPUQg)
 19. 2025-VLDB BACH: Bridging Adjacency List and CSR Format using LSM-Trees for HGTAP Workloads[[pdf]](https://www.vldb.org/pvldb/vol18/p1509-miao.pdf)[[code]](https://github.com/2600254/BACH)
-20. 2025-VLDB RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries[[pdf]](https://dl.acm.org/doi/10.14778/3748191.3748217)
+20. 2025-VLDB RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries[[pdf]](https://dl.acm.org/doi/10.14778/3748191.3748217)[[code]](https://github.com/SJTU-Liquid/RapidStore)
 
 **Hash-liked**
 1. 2019-PDPS GraphThinker: A High Performance Data Structure for Dynamic Graph Processing[[pdf]](https://ieeexplore.ieee.org/document/8821003/)[[code]](https://github.com/Wole308/graphtinker)
