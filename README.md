@@ -65,7 +65,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 14. 2024-ISPA DAUSK: A Transactional Graph Structure for Skewed Dynamic Graph Storage[[pdf]](https://ieeexplore.ieee.org/document/10885300)
 15. 2024-TDB TgStore: An Efficient Storage System for Large Time-Evolving Graphs[[pdf]](https://ieeexplore.ieee.org/document/10436166)
 16. 2024-VLDB GastCoCo: Graph Storage and Coroutine-Based Prefetch Co-Design for Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/10.14778/3704965.3704986)[[code]](https://github.com/GorgeouszzZ/GastCoCo)
-17. 2024-VLDB Spruce: A Fast yet Space-saving Structure for Dynamic Graph Storage[[pdf]](https://dl.acm.org/doi/10.1145/3639282)[[code]](https://github.com/Stardust-SJF/Spruce)
+17. 2024-SIGMOD Spruce: A Fast yet Space-saving Structure for Dynamic Graph Storage[[pdf]](https://dl.acm.org/doi/10.1145/3639282)[[code]](https://github.com/Stardust-SJF/Spruce)
 18. 2025-HPCC TripleGraph: A High-Throughput Data Structure for Dynamic Graph Supporting Diverse Workloads[[pdf]](https://www.computer.org/csdl/proceedings-article/hpcc/2025/687400a552/2bggojnPUQg)
 19. 2025-VLDB BACH: Bridging Adjacency List and CSR Format using LSM-Trees for HGTAP Workloads[[pdf]](https://www.vldb.org/pvldb/vol18/p1509-miao.pdf)[[code]](https://github.com/2600254/BACH)
 20. 2025-VLDB RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries[[pdf]](https://dl.acm.org/doi/10.14778/3748191.3748217)[[code]](https://github.com/SJTU-Liquid/RapidStore)
