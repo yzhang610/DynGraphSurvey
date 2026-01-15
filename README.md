@@ -75,7 +75,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 2. 2021-ICDE DuCuckoo: Dynamic Hash Tables on GPUs[[pdf]](https://ieeexplore.ieee.org/document/9458727/)[[code]](https://github.com/zhuqiweigit/DyCuckoo)
 3. 2022-SEA A Fast Data Structure for Dynamic Graphs Based on Hash-Indexed Adjacency Blocks[[pdf]](https://drops.dagstuhl.de/storage/00lipics/lipics-vol233-sea2022/LIPIcs.SEA.2022.11/LIPIcs.SEA.2022.11.pdf)[[code]](https://github.com/hu-macsy/dhb)
 4. 2023-ICDE Wind-Bell index: Towards Ultra-Fast Edge Query for Graph Databases[[pdf]](https://ieeexplore.ieee.org/document/10184541)
-5. 2025-CDE CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs[[pdf]](https://ieeexplore.ieee.org/document/11112841)[[code]](https://github.com/pkufzc/CuckooGraph)
+5. 2025-ICDE CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs[[pdf]](https://ieeexplore.ieee.org/document/11112841)[[code]](https://github.com/pkufzc/CuckooGraph)
 
 ### graph databases
 1. 2013 ATC TAO: Facebook's Distributed Data Store for the Social Graph[[pdf]](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
