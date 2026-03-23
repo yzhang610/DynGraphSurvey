@@ -299,20 +299,5 @@ Dynamic graph processing has emerged as a critical research area in high-perform
    - Compliance with industry standards, ensuring that benchmark results are relevant for commercial graph database vendors and enterprise users.
 
 ## Cite ## 
-To cite, you can use the following BibTeX entries:
-   @ARTICLE{11408872,
-   author={Zhang, Yuan and Cao, Huawei and Shen, Yue and Li, Sibo and Feng, Yang and Wang, Chunxiang and An, Xuejun and Ye, Xiaochun},
-   journal={ IEEE Transactions on Knowledge \& Data Engineering },
-   title={{ A Comprehensive Survey on Dynamic Graph Processing: Storage and Analytics }},
-   year={5555},
-   volume={},
-   number={01},
-   ISSN={1558-2191},
-   pages={1-20},
-   abstract={ Dynamic graph processing is becoming increasingly critical across a wide range of domains, including social networks, financial transactions, and business intelligence. Its effectiveness relies heavily on optimizations in both storage and analytics, which are essential for improving system performance, throughput, and scalability. While dynamic graph processing has attracted significant research attention and yielded notable progress, a comprehensive analysis that integrates advancements in both dynamic graph storage and analytics remains lacking. To address this gap, this paper presents a thorough review of stateof-the-art techniques that support dynamic graph processing, with a particular focus on storage and analytical methods. Specifically, we first outline the fundamental challenges and core design principles in the field. Then, we systematically classify and summarize existing approaches, encompassing dynamic graph storage and analytics optimizations across both CPU and GPU platforms. Finally, we identify key research gaps and suggest promising directions for future work. This survey presents a comprehensive and up-to-date review of the literature on dynamic graph processing, offering valuable insights for both new and established researchers and contributing to the advancement of the field. The related materials for this paper are available at: https://github.com/yzhang610/DynGraphSurvey. },
-   keywords={Surveys;Optimization;Reviews;Dynamic scheduling;Scalability;Memory;Taxonomy;Graphics processing units;Computational modeling;Throughput},
-   doi={10.1109/TKDE.2026.3667713},
-   url = {https://doi.ieeecomputersociety.org/10.1109/TKDE.2026.3667713},
-   publisher={IEEE Computer Society},
-   address={Los Alamitos, CA, USA},
-   month=feb}
+Zhang Y, Cao H, Shen Y, et al. A Comprehensive Survey on Dynamic Graph Processing: Storage and Analytics[J]. IEEE Transactions on Knowledge and Data Engineering, 2026.
+
