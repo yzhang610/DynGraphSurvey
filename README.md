@@ -48,7 +48,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 21. 2025-ICDE LSM-Community: A Graph Storage System Exploiting Community Structure in Social Networks[[pdf]](https://ieeexplore.ieee.org/abstract/document/11112922)
 22. 2025-SC Bubble: Towards Scalable Evolving Graph Processing via Mini-Batch Sorting[[pdf]](https://dl.acm.org/doi/10.1145/3712285.3759897)[[code]](https://github.com/ldeng-ustc/bubble_rel)
 23. 2025-DAC LearnGraph: A Learning-Based Architecture for Dynamic Graph Processing[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3627703.3650076)
-24. 2026-ICDT DCSR: A Fast Data Structure with Leaf-Oriented Locks for Streaming Graph Processing[[pdf]](https://openproceedings.org/2026/conf/edbt/paper-246.pdf)
+24. 2026-EDBT DCSR: A Fast Data Structure with Leaf-Oriented Locks for Streaming Graph Processing[[pdf]](https://openproceedings.org/2026/conf/edbt/paper-246.pdf)
 
 **AJ-liked**
 1. 2012-HPEC STINGER: High Performance Data Structure for Streaming Graphs[[pdf]](https://ieeexplore.ieee.org/document/6408680)[[code]](https://github.com/stingergraph/stinger)
