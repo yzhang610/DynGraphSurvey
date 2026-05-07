@@ -135,6 +135,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 21. 2025-TKDE GoGraph: Accelerating Graph Processing through Incremental Reordering[[pdf]](https://ieeexplore.ieee.org/document/11214289)
 22. 2025-VLDB Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing[[pdf]](https://www.vldb.org/pvldb/vol18/p3854-wang.pdf)[[code]](https://github.com/Yongze-zzz/C-GpuStreamGraph)
 23. 2026-TCAD CEGraph: Cache-Efficient Management for Streaming Graph Processing[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11018516)
+24. 2026-TACO WSGraph A Framework for Tackling Redundant and Irregular Data Access in Streaming Graph Processing[[pdf]](https://dl.acm.org/doi/10.1145/3803023)
 
 ### dynamic graph processing without incremental computation
 1. 2014-EuroSys Towards Large-Scale Graph Stream Processing Platform2014-EuroSys Chronos: A Graph Engine for Temporal Graph Analysis[[pdf]](https://pacman.cs.tsinghua.edu.cn/papers_cwg/eurosys2014.pdf)
