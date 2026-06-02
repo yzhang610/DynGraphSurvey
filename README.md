@@ -110,6 +110,7 @@ This project reviews relevant work on dynamic graph storage and graph analytics.
 30. 2025-SIGMOD A Modular Graph-Native Query Optimization Framework[[pdf]](https://dl.acm.org/doi/10.1145/3722212.3724425)
 31. 2025-SIGMOD Aster: Enhancing LSM-structures for Scalable Graph Database[[pdf] ](https://arxiv.org/abs/2501.06570)[[code]](https://github.com/NTU-Siqiang-Group/Aster)
 32. 2025-SIGMOD GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support[[pdf]](https://arxiv.org/abs/2405.01418)
+33. 2026-SIGMOD ByteGraph-Dione: An Adaptive Dual-Format Graph Engine with Hotspot Awareness and Transaction Efficiency for Production-Scale Workloads[[pdf]](https://dl.acm.org/doi/abs/10.1145/3788853.3803073)
 
 ## Dynamic Graph Analytics
 ### incremental computation
